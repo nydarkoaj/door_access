@@ -3,3 +3,4 @@ numpy
 pyodbc
 ipykernel
 boto3
+Python-dotenv

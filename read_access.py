@@ -1,9 +1,24 @@
 import pyodbc
 import pandas as pd
 import datetime as dt
+import os
+import boto3
+from dotenv import load_dotenv
+
+load_dotenv()
+
 
 s3_bucket = "s3://datahub-datawarehouse-dev-bucket"
 s3_prefix = "/raw/door_access/"
+access_key = os.getenv("AWS_ACCESS_KEY_ID")
+secret_key = os.getenv("AWS_SECRET_ACCESS_KEY")
+region = os.getenv("AWS_REGION")
+s3_client = boto3.client('s3', aws_access_key_id=access_key, aws_secret_access_key=secret_key, region_name=region)
+
+
+buckets = s3_client.list_buckets()
+for bucket in buckets['Buckets']:
+    print(bucket['Name'])
 
 # Path to your .mdb file
 mdb_file = r'C:\Users\NanaYawDarko\door_access_accra\access.mdb'
