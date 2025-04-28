@@ -1,3 +1,4 @@
+# ========== IMPORTS ==========
 import pyodbc
 import pandas as pd
 import datetime as dt
@@ -6,21 +7,22 @@ from typing import Dict, List
 import os
 import boto3
 from dotenv import load_dotenv
+from io import StringIO
+import time
+
 
 load_dotenv()
 
-
-s3_bucket = "s3://datahub-datawarehouse-dev-bucket"
-s3_prefix = "/raw/door_access/"
+#========== AWS S3 CONFIGURATION ==========
+s3_bucket = "datahub-datawarehouse-dev-bucket"
+s3_prefix = "raw/door_access/"
 access_key = os.getenv("AWS_ACCESS_KEY_ID")
 secret_key = os.getenv("AWS_SECRET_ACCESS_KEY")
 region = os.getenv("AWS_REGION")
 s3_client = boto3.client('s3', aws_access_key_id=access_key, aws_secret_access_key=secret_key, region_name=region)
 
 
-buckets = s3_client.list_buckets()
-for bucket in buckets['Buckets']:
-    print(bucket['Name'])
+
 
 # ========== CONFIGURATION ==========
 MDB_FILE = r'C:\Users\NanaYawDarko\door_access_accra\access.mdb'
@@ -28,6 +30,8 @@ CONN_STR = (
     r'Driver={Microsoft Access Driver (*.mdb, *.accdb)};'
     rf'DBQ={MDB_FILE};'
 )
+
+
 
 NEEDED_TABLES = [
     'USERINFO', 'CHECKINOUT', 'DEPARTMENTS', 'Machines', 'acc_monitor_log', 'acc_door', 'action_log'
@@ -147,11 +151,25 @@ def main() -> pd.DataFrame:
     logger.info("Merging datasets...")
     final_df = merge_data(clean_user_df, clean_checkin_df, clean_eventlog_df)
 
-    logger.info("Data processing completed successfully.")
-    return final_df
+    logger.info("uploading merged dataset file to S3...")
+    s3_key = f"{s3_prefix}merged_data_{current_time}.csv"
+    try:
+        # s3_client.upload_file(s3_path, s3_bucket, f"{s3_prefix}merged_data_{current_time}.csv")
+        csv_buffer = StringIO()
+        final_df.to_csv(csv_buffer, index=False)
+
+        s3_client.put_object(Bucket=s3_bucket,Key=s3_key, Body=csv_buffer.getvalue())
+        logger.info(f"File uploaded to s3://{s3_bucket}/{s3_key}")
+    except Exception as e:
+        logger.error(f"Failed to upload file to S3: {e}")
+    else:
+        logger.info("Data ingestion completed successfully.")
+        return final_df
 
 # ========== ENTRY POINT ==========
 if __name__ == "__main__":
     final_dataset = main()
     logger.info("Sample of processed data:")
     logger.info("\n%s", final_dataset.head())
+
+#s3://datahub-datawarehouse-dev-bucket/raw/door_access/
