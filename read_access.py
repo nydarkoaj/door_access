@@ -153,7 +153,7 @@ def merge_data(
         suffixes=('_checkin', '_eventlog')
     )
     # Update dict with merged dataframes
-    update_dict= {'employee_df':employee_df,'log_events_df':log_events_df}
+    update_dict= {'employee':employee_df,'log_events':log_events_df}
     dfs.update(update_dict)
  
     return dfs
@@ -163,7 +163,7 @@ def merge_data(
 def upload_all_dfs_to_s3(dfs: Dict[str, pd.DataFrame], bucket: str, prefix: str) -> None:
     # upload all dataframes to s3 as parquet files in the accra directory for my s3 path
     for name, df in dfs.items():
-        s3_path = f"{prefix}{name}.parquet"
+        s3_path = f"{prefix}Accra/{name}/{name}.parquet"
         try:
             bytes_buffer = BytesIO()
             df.to_parquet(bytes_buffer, index=False)
@@ -200,23 +200,10 @@ def main() -> pd.DataFrame:
         upload_all_dfs_to_s3(final_dfs, s3_bucket, s3_prefix)
     except Exception as e:
         logger.error(f"Failed to upload dataframes to S3: {e}")
-   
+    else:
+        logger.info("Data ingestion pipeline completed successfully.")
     
-    return final_dfs['employee_df']
-        
-    # s3_key = f"{s3_prefix}merged_data_{current_time}.csv"
-    # try:
-    #     # s3_client.upload_file(s3_path, s3_bucket, f"{s3_prefix}merged_data_{current_time}.csv")
-    #     csv_buffer = StringIO()
-    #     final_df.to_csv(csv_buffer, index=False)
-
-    #     s3_client.put_object(Bucket=s3_bucket,Key=s3_key, Body=csv_buffer.getvalue())
-    #     logger.info(f"File uploaded to s3://{s3_bucket}/{s3_key}")
-    # except Exception as e:
-    #     logger.error(f"Failed to upload file to S3: {e}")
-    # else:
-    #     logger.info("Data ingestion completed successfully.")
-    #     return final_df
+    return final_dfs['employee']
 
 # ========== ENTRY POINT ==========
 if __name__ == "__main__":
@@ -224,4 +211,3 @@ if __name__ == "__main__":
     logger.info("\n%s", "Sample of processed data:")
     logger.info("\n%s", final_dataset.head())
 
-#s3://datahub-datawarehouse-dev-bucket/raw/door_access/
