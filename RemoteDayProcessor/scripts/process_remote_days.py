@@ -114,7 +114,7 @@ def save_snapshot(data: List[Tuple[str, str]]):
 def main():
     try:
         downloads_path = os.path.join(os.path.expanduser("~"), "Downloads")
-        file_path = os.path.join(downloads_path, "leave_data.xlsx")
+        file_path = os.path.join("data", "leave_data.xlsx")
         output_file = "remote_days_output2.csv"
 
         xlsx = load_excel_file(file_path)
