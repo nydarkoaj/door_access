@@ -22,6 +22,7 @@ $employeeFolder = Get-MgDriveItemChild -DriveId $drive.Id -DriveItemId $dataScie
 $file = Get-MgDriveItemChild -DriveId $drive.Id -DriveItemId $employeeFolder.Id | Where-Object Name -eq 'leave_data.xlsx'
 
 # Download the file to the local path
+$destinationPath = "data\leave_data.xlsx"
 Invoke-MgGraphRequest -Method GET `
   -Uri "https://graph.microsoft.com/v1.0/drives/$($drive.Id)/items/$($file.Id)/content" `
-  -OutputFilePath "C:\Users\CharlesAduNkansah\Downloads\leave_data.xlsx"
+  -OutputFilePath $destinationPath
