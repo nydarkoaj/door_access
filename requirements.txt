@@ -6,3 +6,4 @@ boto3
 Python-dotenv
 pyarrow
 fastparquet
+Office365-REST-Python-Client
