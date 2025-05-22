@@ -1,12 +1,13 @@
-===================================================
-Remote Day Processor - Setup Instructions
-===================================================
+
+# Remote Day Processor - Setup Instructions
+
 
 This tool downloads an Excel file from SharePoint and analyzes remote working days.
 
 -------------
 Folder Structure:
 -------------
+
 RemoteDayProcessor/
 │
 ├── run_all.bat
