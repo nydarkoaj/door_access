@@ -7,7 +7,7 @@ This tool downloads an Excel file from SharePoint and analyzes remote working da
 -------------
 Folder Structure:
 -------------
-
+```
 RemoteDayProcessor/
 │
 ├── run_all.bat
@@ -18,7 +18,8 @@ RemoteDayProcessor/
 │   └── process_remote_days.py    
 │
 └── data/
-    └── leave_data.xlsx          
+    └── leave_data.xlsx         
+```     
 -------------
 Prerequisites:
 -------------
