@@ -1,24 +1,25 @@
-===================================================
-Remote Day Processor - Setup Instructions
-===================================================
+
+# Remote Day Processor - Setup Instructions
+
 
 This tool downloads an Excel file from SharePoint and analyzes remote working days.
 
 -------------
 Folder Structure:
 -------------
+```
 RemoteDayProcessor/
 │
 ├── run_all.bat
 ├── README.txt
 │
 ├── scripts/
-│   ├── download_excel.ps1        ← PowerShell script
-│   └── process_remote_days.py    ← Python script
+│   ├── download_excel.ps1        
+│   └── process_remote_days.py    
 │
 └── data/
-    └── leave_data.xlsx           ← (Downloaded automatically)
-
+    └── leave_data.xlsx         
+```     
 -------------
 Prerequisites:
 -------------
