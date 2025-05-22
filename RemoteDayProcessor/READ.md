@@ -14,12 +14,11 @@ RemoteDayProcessor/
 ├── README.txt
 │
 ├── scripts/
-│   ├── download_excel.ps1        ← PowerShell script
-│   └── process_remote_days.py    ← Python script
+│   ├── download_excel.ps1        
+│   └── process_remote_days.py    
 │
 └── data/
-    └── leave_data.xlsx           ← (Downloaded automatically)
-
+    └── leave_data.xlsx          
 -------------
 Prerequisites:
 -------------
