@@ -1,0 +1,787 @@
+name,employee_id,email,office,organization,user_id,deactivated
+Kesse Sefa,TC-ACC-0533,sefa.kesse@amalitech.org,Accra,AmaliTech Ghana Ltd,533,True
+Rhoda Arthur,SC-KSI-0810,rhoda.arthur@amalitech.com,Kumasi,AmaliTech Ghana Ltd,810,False
+Cyber Test,TKD-0667,cyber.test@amalitech.com,Takoradi,AmaliTech Ghana Ltd,667,False
+Emmanuel Asidigbe,NSP-SC-24-0716,emmanuel.asidigbe@amalitech.com,Accra,AmaliTech Ghana Ltd,716,False
+Ozi Uzoma,TC-ACC-0641,ozi.uzoma@amalitech.org,Accra,AmaliTech Ghana Ltd,641,True
+Kojo Langaroti,,kogiy51221@corylan.com,,,366,True
+George Owusu,SC-TKD-0688,george.owusu@amalitech.com,Takoradi,AmaliTech Ghana Ltd,688,True
+Frank Aboagye,SC-ACC-0561,frank.aboagye@amalitech.com,Accra,AmaliTech Ghana Ltd,561,False
+Prince Dean Agbodjan,SC-TKD-0819,dean.agbodjan@amalitech.com,Takoradi,AmaliTech Ghana Ltd,819,False
+Edward Tsatsu Akorlie,SC-ACC-0792,edward.akorlie@amalitech.com,Accra,AmaliTech Ghana Ltd,792,False
+Moses Basing,SC-TKD-0133,moses.basing@amalitech.com,Takoradi,AmaliTech Ghana Ltd,217,False
+Alfred Bismark Quainoo,,alfred.quainoo@amalitech.org,,AmaliTech Ghana Ltd,8,True
+Ishaque Appiah,SC-ACC-0483,ishaque.appiah@amalitech.com,Accra,AmaliTech Ghana Ltd,483,False
+Jacob Sabbath Adiaba,SC-TKD-0570,jacob.adiaba@amalitech.com,Takoradi,AmaliTech Ghana Ltd,570,False
+Sarah Sackeybea Addo,TC-TKD-0008,sarah.addo@amalitech.com,Takoradi,AmaliTech Ghana Ltd,17,False
+Raphael Kyere Adonteng,SC-TKD-0035,raphael.adonteng@amalitech.com,Takoradi,AmaliTech Ghana Ltd,61,False
+Richard H A Botchway,OP-TKD-0002,richard.botchway@amalitech.com,Takoradi,AmaliTech Ghana Ltd,10,False
+Yvonne Betty Amoah,,yvonne.amoah@amalitech.org,,AmaliTech Ghana Ltd,11,True
+Ernest Brayce,SC-TKD-0048,ernest.brayce@amalitech.com,Takoradi,AmaliTech Ghana Ltd,189,False
+Michael Boadum Ahiale,SC-ACC-0833,michael.ahiale@amalitech.com,Accra,AmaliTech Ghana Ltd,833,False
+Frederick Frimpong Arthur,SC-ACC-0620,frederick.frimpong@amalitech.com,Accra,AmaliTech Ghana Ltd,620,False
+Joshua Tetteh,SC-ACC-0436,joshua.tetteh@amalitech.com,Accra,AmaliTech Ghana Ltd,436,False
+Stephen Paakow Aihoon,SC-TKD-0241,stephen.aihoon@amalitech.com,Takoradi,AmaliTech Ghana Ltd,465,False
+Grace Yaa Nalon,SC-ACC-0564,grace.nalon@amalitech.com,Accra,AmaliTech Ghana Ltd,564,False
+Michael Kwabena Drah,,michael.drah@amalitech.org,,AmaliTech Ghana Ltd,12,True
+Godbless Mensah Abbew,NSP-SC-22-053,godbless.abbew@amalitech.com,,AmaliTech Ghana Ltd,399,True
+Emmanuel  Jean  Kamasah,SC-ACC-00477,emmanuel.kamasah@amalitech.com,,AmaliTech Ghana Ltd,477,True
+Katrin Hecker,OP-GER-00479,katrin.hecker@amalitech.org,,AmaliTech Ghana Ltd,479,True
+Sonia Teta Rugira,OP-KGL-0671,sonia.rugira@amalitech.org,Kigali,AmaliTech Rwanda Ltd,671,True
+Yakubu Lute,TC-ACC-0818,yakubu.lute@amalitech.com,Accra,AmaliTech Ghana Ltd,818,False
+Eric Hackman,SC-ACC-0490,eric.hackman@amalitech.com,Accra,AmaliTech Ghana Ltd,490,False
+Eric Manu,NSP-SC-22-052,eric.manu@amalitech.com,,AmaliTech Ghana Ltd,402,True
+Nicholas Vandyck,NSP-SC-22-051,nicholas.vandyck@amalitech.com,,AmaliTech Ghana Ltd,406,True
+Paul Deke,,paul.deke@amalitech.org,,AmaliTech Ghana Ltd,19,True
+Akua Mensima Donkor,SC-ACC-0822,akua.donkor@amalitech.com,Accra,AmaliTech Ghana Ltd,822,False
+Hassan Abudu,SC-ACC-00489,hassan.abudu@amalitech.com,Accra,AmaliTech Ghana Ltd,489,True
+Abigail Mensah,NSP-SC-22-015,abigail.mensah@amalitech.com,,AmaliTech Ghana Ltd,380,True
+Clement Bartholomew Koomson,,clement.koomson@amalitech.com,,AmaliTech Ghana Ltd,35,True
+Chester Mawuli Gadawusu,,chester.gadawusu@amalitech.com,,AmaliTech Ghana Ltd,36,True
+Abdurami Alhaji Taibu,,abdurami.taibu@amalitech.com,,AmaliTech Ghana Ltd,42,True
+Kwabena Nketia Ababio,SC-ACC-0820,kwabena.ababio@amalitech.com,Accra,AmaliTech Ghana Ltd,820,False
+Muftawo Omar,SC-TKD-0038,muftawo.omar@amalitech.com,,AmaliTech Ghana Ltd,64,True
+DANIEL EDEM KOFI AVUWORDA,,daniel.avuworda@amalitech.com,,AmaliTech Ghana Ltd,68,True
+Nana Kofi Bobbie-Sarfo,,nana.bobbie-sarfo@amalitech.com,,AmaliTech Ghana Ltd,72,True
+Elvis Kemevor,,elvis.kemevor@amalitech.org,,AmaliTech Ghana Ltd,77,True
+Doris Anima Sarpong,OP-TKD-0082,doris.sarpong@amalitech.com,Kumasi,AmaliTech Ghana Ltd,232,False
+Clifford Frempong,SC-ACC-0821,clifford.frempong@amalitech.com,Accra,AmaliTech Ghana Ltd,821,False
+Francine-Maria Aweziga Kaba,SC-TKD-0367,francine-maria.aweziga-kaba@amalitech.com,Takoradi,AmaliTech Ghana Ltd,367,False
+Frederick Agyemang,OP-KSI-0834,frederick.agyemang@amalitech.com,Kumasi,AmaliTech Ghana Ltd,834,False
+Nana-orkoh Dwamena,NSP-SC-23-0592,nana-orkoh.dwamena@amalitech.com,Accra,AmaliTech Ghana Ltd,592,True
+Lloyd Theohilus Osabutey-Anikon,SC-ACC-0686,lloyd.osabutey-anikon@amalitech.com,Accra,AmaliTech Ghana Ltd,686,False
+Kingsley Botchway,NSP-SC-24-0724,kingsley.botchway@amalitech.com,Kumasi,AmaliTech Ghana Ltd,724,False
+Joshua Kobina Obeng,-ACC-0823,joshua.obeng@amalitech.com,Accra,AmaliTech Ghana Ltd,823,False
+Auditor Finance,TKD-0802,auditor.finance@amalitech.com,Takoradi,AmaliTech Ghana Ltd,802,False
+Daniel Bontii,SC-TKD-0188,daniel.bontii@amalitech.com,Takoradi,AmaliTech Ghana Ltd,318,True
+Michael Kevin Alabi-Duobu,,michael.alabi-duobu@amalitech.org,,AmaliTech Ghana Ltd,89,True
+Nathaniel Cobbinah,SC-TKD-0061,nathaniel.cobbinah@amalitech.org,,AmaliTech Ghana Ltd,90,True
+Daniel Kwame Okyere,SC-TKD-0054,daniel.okyere@amalitech.org,,AmaliTech Ghana Ltd,102,True
+Sedem Garr,,sedem.garr@amalitech.org,,AmaliTech Ghana Ltd,117,True
+Yussif Sulemana,,yussif.sulemana@amalitech.org,,AmaliTech Ghana Ltd,120,True
+Isaac Oppong-baah,SC-TKD-0073,isaac.oppong-baah@amalitech.com,Accra,AmaliTech Ghana Ltd,156,True
+Kenneth Atta Oppong,SC-TKD-0581,kenneth.oppong@amalitech.com,Takoradi,AmaliTech Ghana Ltd,581,False
+David Adarkwah,SC-TKD-0070,david.adarkwah@amalitech.org,,AmaliTech Ghana Ltd,150,True
+Suleman Alhaji Zakaria,SC-TKD-0075,suleman.zakaria@amalitech.org,,AmaliTech Ghana Ltd,166,True
+Babita Sagoe,SC-ACC-0440,babita.sagoe@amalitech.com,Accra,AmaliTech Ghana Ltd,440,False
+Julius Asante,SC-TKD-0049,julius.asante@amalitech.com,,AmaliTech Ghana Ltd,190,True
+Bright Kumedzro,NSP-SC-24-0764,bright.kumedzro@amalitech.com,Kumasi,AmaliTech Ghana Ltd,764,False
+Ebenezer Antwi,NSP-SC-24-0748,ebenezer.antwi@amalitech.com,Kumasi,AmaliTech Ghana Ltd,748,False
+Prince Kofi Adegah,SC-TKD-0132,prince.adegah@amalitech.org,,AmaliTech Ghana Ltd,197,True
+Zanitta Essel Quaicoe,NSP-SC-24-0740,zanitta.quaicoe@amalitech.com,Kumasi,AmaliTech Ghana Ltd,740,False
+Godfred Asumadu Asamoah,SC-TKD-0126,godfred.asamoah@amalitech.org,,AmaliTech Ghana Ltd,200,True
+Agbesi Kwaku Amenyo,SC-TKD-0131,agbesi.amenyo@amalitech.org,,AmaliTech Ghana Ltd,218,True
+Bismark Frimpong,SC-TKD-0127,bismark.frimpong@amalitech.org,,AmaliTech Ghana Ltd,219,True
+Amin Hadi,SC-TKD-0118,amin.hadi@amalitech.org,,AmaliTech Ghana Ltd,221,True
+Jeremiah Ngessiah,,jeremiah.ngessiah@amalitech.org,,AmaliTech Ghana Ltd,225,True
+Amoro Abdulai Bagei,SC-TKD-0119,amoro.bagei@amalitech.com,,AmaliTech Ghana Ltd,229,True
+Alfred Festus Boakye,,alfred.boakye@amalitech.org,,AmaliTech Ghana Ltd,259,True
+Ivy Wambui Murage,TC-KGL-0803,ivy.murage@amalitech.com,Kigali,AmaliTech Rwanda Ltd,803,False
+Francis Adjei,SC-TKD-0148,francis.adjei@amalitech.com,,AmaliTech Ghana Ltd,274,True
+Anthony Osei,SC-ACC-0835,anthony.osei@amalitech.com,Accra,AmaliTech Ghana Ltd,835,False
+Ebenezer Nyarko,SC-TKD-0078,ebenezer.nyarko@amalitech.com,Kumasi,AmaliTech Ghana Ltd,106,False
+Benjamin Eshun,SC-TKD-0041,benjamin.eshun@amalitech.com,Takoradi,AmaliTech Ghana Ltd,67,False
+Augustine Smith,SC-TKD-0213,augustine.smith@amalitech.com,Takoradi,AmaliTech Ghana Ltd,355,False
+Collins Adom Baffour,,collins.baffour@amalitech.org,,AmaliTech Ghana Ltd,279,True
+Victor Onyedikachi Anah,TC-TKD-0087,victor.anah@amalitech.org,,AmaliTech Ghana Ltd,293,True
+Daniel Cobbinah,TC-TKD-0004,daniel.cobbinah@amalitech.org,,AmaliTech Ghana Ltd,7,True
+Israel Amedeka,NSP-SC-22-021,israel.amedeka@amalitech.com,,AmaliTech Ghana Ltd,385,True
+Caleb Atiemo-Keseku,SC-TKD-0180,caleb.keseku@amalitech.com,Takoradi,AmaliTech Ghana Ltd,317,True
+Michael Larbo,SC-TKD-0017,michael.larbo@amalitech.com,Takoradi,AmaliTech Ghana Ltd,38,True
+Katja Albrecht,CGO-0000,katja.albrecht@amalitech.com,Cologne,AmaliTech Services GmbH,458,False
+Amos Appiah Nkum,,amos.nkum@amalitech.org,,AmaliTech Ghana Ltd,2,True
+Julio Arrieta,SC-USA-0836,julio.arrieta@amalitech.com,Cologne,AmaliTech Services GmbH,836,False
+Felix Ofoe Portuphy,SC-TKD-0128,felix.portuphy@amalitech.com,Takoradi,AmaliTech Ghana Ltd,213,True
+Roger Pacifique Uwayezu,SC-KGL-0657,roger.uwayezu@amalitech.com,Kigali,AmaliTech Rwanda Ltd,657,False
+Abulfail Ahmed Rufai,SC-TKD-0421,abulfail.rufai@amalitech.com,Kumasi,AmaliTech Ghana Ltd,421,False
+Emmanuel Omensu Mensah,SC-TKD-0231,emmanuel.mensah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,453,False
+Silas Owu,NSP-SC-22-004,silas.owu@amalitech.com,,AmaliTech Ghana Ltd,370,True
+Eunice Adutwumwaa Braimah,SC-ACC-0801,eunice.braimah@amalitech.com,Accra,AmaliTech Ghana Ltd,801,False
+Harriet Arko,NSP-SC-23-0565,harriet.arko@amalitech.com,Takoradi,AmaliTech Ghana Ltd,565,True
+Nicholas Kyereboah,NSP-SC-24-0780,nicholas.kyereboah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,780,False
+Christopher Kweku Asamoah Angoe,SC-TKD-0431,christopher.angoe@amalitech.org,Takoradi,AmaliTech Ghana Ltd,431,True
+Maame Aba Crentsil,NSP-SC-24-0783,maameaba.crentsil@amalitech.com,Takoradi,AmaliTech Ghana Ltd,783,False
+Emmanuel Ayirebi,SC-TKD-0073,emmanuel.ayirebi@amalitech.com,Takoradi,AmaliTech Ghana Ltd,171,False
+Leonard Mensah Boante,SC-TKD-0183,leonard.boante@amalitech.com,,AmaliTech Ghana Ltd,321,True
+Augustine Kyei Baffour,SC-TKD-0371,augustine.kyei@amalitech.com,Takoradi,AmaliTech Ghana Ltd,371,False
+Anita Twumasi Ankrah,SC-TKD-0034,anita.twumasi-ankrah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,60,False
+Harriet Buadee,SC-KSI-0397,harriet.buadee@amalitech.com,Kumasi,AmaliTech Ghana Ltd,397,False
+Kristine Leabres-Matthee,,kristine.leabres-matthee@amalitech.org,,,4,True
+Robert-William Nii Odartei Evans,NSP-SC-22-008,robert-william.evans@amalitech.com,,AmaliTech Ghana Ltd,373,True
+Hayford Lumorvi,NSP-SC-22-016,hayford.lumorvi@amalitech.com,,AmaliTech Ghana Ltd,381,True
+Ewura Ama Aboagyewaa Amponsah,SC-ACC-0375,ewurama.amponsah@amalitech.com,Accra,AmaliTech Ghana Ltd,375,False
+Christopher Kweku Asamoah Angoe,SC-TKD-0618,christopher.angoe@amalitech.com,Takoradi,AmaliTech Ghana Ltd,618,False
+Faisal Issaka,SC-TKD-0414,faisal.issaka@amalitech.com,Takoradi,AmaliTech Ghana Ltd,414,False
+Mathijs Dijkhuizen,SC-GER-0824,mathijs.dijkhuizen@amalitech.com,Cologne,AmaliTech Services GmbH,824,False
+Melissa Kundwa,OP-KGL-0677,melissa.kundwa@amalitech.com,Kigali,AmaliTech Rwanda Ltd,677,False
+Ivan Muhumuza,SC-KGL-0825,ivan.muhumuza@amalitech.com,Kigali,AmaliTech Rwanda Ltd,825,False
+Omar Karake,SC-KGL-0828,omar.karake@amalitech.com,Kigali,AmaliTech Rwanda Ltd,828,False
+Hubert Agbenyegah,SC-ACC-0569,hubert.agbenyegah@amalitech.com,Accra,AmaliTech Ghana Ltd,569,False
+Raphael Nene Kabutey Ocansey,OP-TKD-0005,raphael.ocansey@amalitech.com,Takoradi,AmaliTech Ghana Ltd,15,False
+Abaidoo Prince,SC-TKD-0014,prince.abaidoo@amalitech.com,Takoradi,AmaliTech Ghana Ltd,33,False
+Nii Nartey Tetteh-Charway,SC-KSI-0806,nii.tetteh@amalitech.com,Kumasi,AmaliTech Ghana Ltd,806,False
+Jean Pierre   Baraka,SC-KGL-515,jean.baraka@amalitech.com,Kigali,AmaliTech Rwanda Ltd,515,True
+Gilbert Twum,SC-ACC-0799,gilbert.twum@amalitech.com,Accra,AmaliTech Ghana Ltd,799,False
+Aisha Adelah,,aisha.adelah@amalitech.org,,AmaliTech Ghana Ltd,5,True
+Test Dummy,,test.dummy@amalitech.com,,,459,True
+Israel Kwawu,SC-TKD-0125,israel.kwawu@amalitech.com,Takoradi,AmaliTech Ghana Ltd,207,False
+Theogene Muhire,OP-KGL-0669,theogene.muhire@amalitech.com,Kigali,AmaliTech Rwanda Ltd,669,False
+Cyber Security,TKD-0666,cyber.security@amalitech.com,Takoradi,AmaliTech Ghana Ltd,666,False
+Phinehas Sersah,SC-TKD-0184,phinehas.sersah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,322,False
+Fredrick Yalley,SC-TKD-0238,fredrick.yalley@amalitech.com,Kumasi,AmaliTech Ghana Ltd,462,False
+Joseph Akayesi,SC-ACC-0242,joseph.akayesi@amalitech.com,Accra,AmaliTech Ghana Ltd,467,False
+Eugene Nana Yaw Acheampong,OP-TKD-0209,eugene.acheampong@amalitech.com,Takoradi,AmaliTech Ghana Ltd,331,False
+Wisdom Kwasi Eleeza,NSP-SC-22-022,wisdom.eleeza@amalitech.com,,AmaliTech Ghana Ltd,387,True
+Prince Charles Turkson,NSP-SC-22-028,prince.turkson@amalitech.com,,AmaliTech Ghana Ltd,395,True
+Kevin Nana Offor Aihoon,NSP-SC-22-041,kevin.aihoon@amalitech.com,,AmaliTech Ghana Ltd,417,True
+Edmund Elliot Gardener,NSP-SC-22-062,edmund.gardener@amalitech.com,,AmaliTech Ghana Ltd,425,True
+Jonathan Stephen Quarcoo,NSP-SC-22-072,jonathan.quarcoo@amalitech.com,,AmaliTech Ghana Ltd,441,True
+Haruna Ibrahim Konlan,SC-TKD-493,haruna.konlan@amalitech.com,Takoradi,AmaliTech Ghana Ltd,493,False
+Moses Furaha,SC-KGL-0826,moses.furaha@amalitech.com,Kigali,AmaliTech Rwanda Ltd,826,False
+Stephen Obeng Takyi,SC-ACC-0656,stephen.takyi@amalitech.com,Accra,AmaliTech Ghana Ltd,656,False
+Emmanuel Appiah,,emmanuel.appiah@amalitech.org,,AmaliTech Ghana Ltd,183,True
+Andrews Attakorah Amaniampong,OP-ACC-0793,andrews.amaniampong@amalitech.com,Accra,AmaliTech Ghana Ltd,793,False
+Amalitech Inventory,,inventory@amalitech.org,,AmaliTech Ghana Ltd,1,True
+Paa Kwesi Ephraim,SC-TKD-0805,paakwesi.ephraim@amalitech.com,Takoradi,AmaliTech Ghana Ltd,805,False
+Kwabena Owusu Achiaw,SC-ACC-0622,kwabena.owusu-achiaw@amalitech.com,Takoradi,AmaliTech Ghana Ltd,622,False
+Wilberforce Cobbina,NSP-SC-22-081,wilberforce.cobbina@amalitech.com,,AmaliTech Ghana Ltd,456,True
+George Junior Boadu,SC-ACC-0470,george.boadu@amalitech.com,Accra,AmaliTech Ghana Ltd,470,False
+Ali Gibran,,ali.gibran@amalitech.org,,AmaliTech Ghana Ltd,174,True
+Lois Ewuraama Young,OP-TKD-0021,lois.young@amalitech.com,Takoradi,AmaliTech Ghana Ltd,45,False
+Franklin Koomson Adjei,SC-TKD-0050,franklin.adjei@amalitech.com,,AmaliTech Ghana Ltd,184,True
+Mireille Ukeye,OP-KGL-0659,mireille.ukeye@amalitech.com,Kigali,AmaliTech Rwanda Ltd,659,True
+Noella Marie Chartine Uwase,TC-KGL-0804,noella.uwase@amalitech.com,Kigali,AmaliTech Rwanda Ltd,804,False
+Victor Aremu,SC-TKD-0129,victor.aremu@amalitech.com,Takoradi,AmaliTech Ghana Ltd,204,True
+Cyndy Amesawu,SC-TKD-0066,cyndy.amesawu@amalitech.com,,AmaliTech Ghana Ltd,147,True
+Bliss Armah-nwanwah,SC-TKD-0407,bliss.armah-nwanwah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,407,False
+Samuel Kasu,NSP-SC-24-0773,samuel.kasu@amalitech.com,Takoradi,AmaliTech Ghana Ltd,773,False
+Clement Muhirwa,OP-KGL-0681,muhirwa.clement@amalitech.com,Kigali,AmaliTech Rwanda Ltd,681,False
+Richard Bouaro,SC-TKD-0624,richard.bouaro@amalitech.com,Takoradi,AmaliTech Ghana Ltd,624,False
+Brenda Dzifa Afua Gota,OP-ACC-0676,brenda.gota@amalitech.com,Accra,AmaliTech Ghana Ltd,676,False
+Stephen Atuobi Boateng Appah,NSP-SC-23-0611,stephen.appah@amalitech.com,Accra,AmaliTech Ghana Ltd,611,True
+Winfred Mawuli Agbotey,SC-TKD-0401,winfred.mawuli-agbotey@amalitech.com,Accra,AmaliTech Ghana Ltd,401,False
+Maxwell Kwesi Ehiawey,SC-TKD-0071,maxwell.ehiawey@amalitech.com,Takoradi,AmaliTech Ghana Ltd,159,False
+James Polkuu,NSP-SC-23-0573,james.polkuu@amalitech.com,Takoradi,AmaliTech Ghana Ltd,573,True
+Bismark Kadogbe,SC-TKD-0537,bismark.kadogbe@amalitech.com,Takoradi,AmaliTech Ghana Ltd,537,False
+Obed Kwaku Gakpa,NSP-SC-23-0595,obed.gakpa@amalitech.com,Accra,AmaliTech Ghana Ltd,595,True
+Perry John Kwarteng,NSP-SC-23-0598,perry.kwarteng@amalitech.com,Accra,AmaliTech Ghana Ltd,598,True
+Zacchaeus Napuo,SC-TKD-0162,zacchaeus.napuo@amalitech.com,Takoradi,AmaliTech Ghana Ltd,263,True
+Daniel Forson,SC-TKD-0546,daniel.forson@amalitech.com,Takoradi,AmaliTech Ghana Ltd,546,False
+Rafiatu Ibrahim,NSP-SC-24-0696,rafiatu.ibrahim@amalitech.com,Accra,AmaliTech Ghana Ltd,696,False
+Gloria Nana Yaa Gyamfi,NSP-SC-22-80,gloria.gyamfi@amalitech.com,,AmaliTech Ghana Ltd,433,True
+Nicholas Dickson,,nicholas.dickson@amalitech.com,,AmaliTech Ghana Ltd,44,True
+Charles Fuakye-akyempim,SC-TKD-0016,fuakye-akyempim.charles@amalitech.com,Takoradi,AmaliTech Ghana Ltd,37,False
+Samuel Adams Adjin,SC-TKD-0138,samuel.adjin@amalitech.com,Takoradi,AmaliTech Ghana Ltd,220,True
+Alliance Francisca Akanyange,SC-KGL-523,alliance.akanyange@amalitech.com,Kigali,AmaliTech Rwanda Ltd,523,False
+Paterne Murenzi,SC-KGL-0827,paterne.murenzi@amalitech.com,Kigali,AmaliTech Rwanda Ltd,827,False
+Emmanuel Adufo,SC-TKD-0554,emmanuel.adufo@amalitech.com,Takoradi,AmaliTech Ghana Ltd,554,False
+Magnifique Umurerwa,SC-KGL-0829,magnifique.umurerwa@amalitech.com,Kigali,AmaliTech Rwanda Ltd,829,False
+Samuel Larbi Danquah,SC-KSI-0817,samuel.danquah@amalitech.com,Kumasi,AmaliTech Ghana Ltd,817,False
+Eva Antwi,NSP-OP-24-0770,eva.antwi@amalitech.com,Takoradi,AmaliTech Ghana Ltd,770,False
+Andrew Marfo,NSP-SC-24-0728,andrew.marfo@amalitech.com,Kumasi,AmaliTech Ghana Ltd,728,False
+Seth Addo,NSP-SC-23-0608,seth.addo@amalitech.com,Accra,AmaliTech Ghana Ltd,608,True
+Nobel Fiawornu,TC-ACC-0530,nobel.fiawornu@amalitech.com,Accra,AmaliTech Ghana Ltd,530,True
+Enyonam Abla Kumador,SC-TKD-0557,enyonam.kumador@amalitech.com,Takoradi,AmaliTech Ghana Ltd,557,False
+Ebenezer Buabeng,SC-TKD-0377,ebenezer.buabeng@amalitech.com,Takoradi,AmaliTech Ghana Ltd,377,False
+Donald Wewoli Akite,NSP-SC-24-0717,donald.akite@amalitech.com,Accra,AmaliTech Ghana Ltd,717,False
+Claude Ishimwe,SC-KGL-0831,claude.ishimwe@amalitech.com,Kigali,AmaliTech Rwanda Ltd,831,False
+Gideon Agbosu,NSP-SC-24-0694,gideon.agbosu@amalitech.com,Accra,AmaliTech Ghana Ltd,694,False
+Konadu Akwasi Akuoko,NSP-SC-23-0584,akwasi.akuoko@amalitech.com,Takoradi,AmaliTech Ghana Ltd,584,True
+Zakaria Mohammed,SC-ACC-0690,zakaria.mohammed@amalitech.com,Remote,AmaliTech Ghana Ltd,690,False
+Gloria Abedi Gyemfa,SC-TKD-0419,gloria.gyemfa@amalitech.com,Takoradi,AmaliTech Ghana Ltd,419,False
+Veronica Abena Numekevor,OP-TKD-0615,veronica.numekevor@amalitech.com,Takoradi,AmaliTech Ghana Ltd,615,False
+Awal Abdulai,SC-TKD-0472,abdulai.awal@amalitech.com,Takoradi,AmaliTech Ghana Ltd,472,False
+Esther Lardze Odzao,NSP-SC-24-0718,esther.odzao@amalitech.com,Kumasi,AmaliTech Ghana Ltd,718,False
+Evans Mbongo,SC-TKD-0443,evans.mbongo@amalitech.com,Takoradi,AmaliTech Ghana Ltd,443,False
+Edward Hanson Mensah,SC-TKD-0550,edward.mensah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,550,False
+Samuel Nana Baffour Asare,SC-TKD-0413,samuel.asare@amalitech.com,Takoradi,AmaliTech Ghana Ltd,413,False
+Blessing Esi Avornyoh,SC-TKD-0539,blessing.avornyoh@amalitech.com,Takoradi,AmaliTech Ghana Ltd,539,False
+Elliot Adinortey Agbettor,SC-TKD-0115,elliot.agbettor@amalitech.com,Takoradi,AmaliTech Ghana Ltd,196,False
+Judah Makinin,SC-TKD-0060,judah.makinin@amalitech.com,Accra,AmaliTech Ghana Ltd,85,False
+David Bobie,,david.bobie@amalitech.org,,,74,True
+Delphine Manishimwe,OP-KGL-0683,delphine.manishimwe@amalitech.com,Kigali,AmaliTech Rwanda Ltd,683,False
+Oliver Kweku Junior Adamtey,NSP-SC-23-0596,oliver.adamtey@amalitech.com,Takoradi,AmaliTech Ghana Ltd,596,True
+Henry Duah Agyemang,NSP-SC-24-0753,henry.agyemang@amalitech.com,Kumasi,AmaliTech Ghana Ltd,753,False
+Henry Rukundo Kisaakye,SC-KGL-654,henry.rukundo@amalitech.com,Kigali,AmaliTech Rwanda Ltd,654,False
+Ali Usman Zaidan,NSP-SC-24-0757,ali.zaidan@amalitech.com,Kumasi,AmaliTech Ghana Ltd,757,False
+Kwabena Agyepong Dwamena,SC-TKD-0123,kwabena.dwamena@amalitech.com,Takoradi,AmaliTech Ghana Ltd,210,True
+Edem Sablah Stephens,NSP-SC-24-0776,stephens.sablah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,776,False
+Abigail Abena Dadzie,NSP-SC-23-0532,abigail.dadzie@amalitech.com,Takoradi,AmaliTech Ghana Ltd,532,True
+Gloria Zoglie,OP-ACC-0797,gloria.zoglie@amalitech.com,Accra,AmaliTech Ghana Ltd,797,False
+Perfect Gift Izihirwe,SC-KGL-629,perfect.izihirwe@amalitech.com,Kigali,AmaliTech Rwanda Ltd,629,True
+Xavier Rucahobatinya,SC-KGL-500,xavier.rucahobatinya@amalitech.com,Kigali,AmaliTech Rwanda Ltd,500,False
+Isaac Ato Hayfron,NSP-SC-24-0779,isaac.hayfron@amalitech.com,Takoradi,AmaliTech Ghana Ltd,779,False
+Joel Kobby Bamfo,SC-TKD-0448,joel.bamfo@amalitech.com,Takoradi,AmaliTech Ghana Ltd,448,False
+Manasseh Aikins Sarfo,SC-TKD-0225,manasseh.sarfo@amalitech.com,Takoradi,AmaliTech Ghana Ltd,435,False
+Gloria Afua Ansah,NSP-SC-23-0563,gloria.ansah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,563,True
+Kingsley Amankwah,SC-ACC-0582,kingsley.amankwah@amalitech.com,Accra,AmaliTech Ghana Ltd,582,False
+Etornam Komla Koko,NSP-SC-24-0711,etornam.koko@amalitech.com,Accra,AmaliTech Ghana Ltd,711,False
+Jean Claude Gombaniro,SC-KGL-509,jean.gombaniro@amalitech.com,Kigali,AmaliTech Rwanda Ltd,509,True
+Linda Pomaa Boateng,SC-TKD-0585,linda.boateng@amalitech.com,Takoradi,AmaliTech Ghana Ltd,585,False
+Michael Nii Attoh,SC-ACC-0591,michael.attoh@amalitech.com,Accra,AmaliTech Ghana Ltd,591,False
+Esther Nkrumah Amoah,OP-TKD-0143,esther.amoah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,308,False
+Benjamin Kwasi Owusu,,benjamin.owusu@amalitech.com,,AmaliTech Ghana Ltd,48,True
+Usman Abdul Matin,SC-TKD-0437,usman.abdul-matin@amalitech.com,Accra,AmaliTech Ghana Ltd,437,False
+Paa Kwesi Adu Yankah,SC-TKD-0623,paa.yankah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,623,False
+Barnabas Businge Tumuhairwe,SC-KGL-510,barnabas.tumuhairwe@amalitech.com,Kigali,AmaliTech Rwanda Ltd,510,False
+Patrick Iradukunda,SC-KGL-0830,patrick.iradukunda@amalitech.com,Kigali,AmaliTech Rwanda Ltd,830,False
+Doris Addai Gyebi,SC-TKD-0549,doris.gyebi@amalitech.com,Takoradi,AmaliTech Ghana Ltd,549,False
+Baffour Kofi Gyawu,SC-TKD-0535,kofi.gyawu@amalitech.com,Takoradi,AmaliTech Ghana Ltd,535,False
+Shamsu Deen Ahmed,SC-TKD-0028,shamsu.ahmed@amalitech.com,Takoradi,AmaliTech Ghana Ltd,53,False
+Seth Assuah,TC-TKD-0691,seth.assuah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,691,False
+Charles Akasoma,NSP-SC-24-0787,charles.akasoma@amalitech.com,Takoradi,AmaliTech Ghana Ltd,787,False
+Prince Ofori Ankamah,SC-ACC-0601,prince.ankamah@amalitech.com,Accra,AmaliTech Ghana Ltd,601,False
+Dilys Opoku-Donkor,SC-TKD-0548,dilys.opoku-donkor@amalitech.com,Takoradi,AmaliTech Ghana Ltd,548,False
+Jeremiah Azilaku,NSP-SC-23-0575,jeremiah.azilaku@amalitech.com,Accra,AmaliTech Ghana Ltd,575,True
+Precious Ainoo,OP-ACC-0600,precious.ainoo@amalitech.com,Accra,AmaliTech Ghana Ltd,600,False
+Titus Ayamga,NSP-SC-23-0614,titus.ayamga@amalitech.com,Takoradi,AmaliTech Ghana Ltd,614,True
+Mubarek Mohammed,NSP-SC-24-0725,mubarek.mohammed@amalitech.com,Accra,AmaliTech Ghana Ltd,725,False
+Tuffour Boateng,SC-TKD-0187,tuffour.boateng@amalitech.com,Kumasi,AmaliTech Ghana Ltd,326,False
+Akosua Amoaba Asiedu,TC-ACC-0661,akosua.asiedu@amalitech.com,Accra,AmaliTech Ghana Ltd,661,False
+Matthew Kobbinah Bansford,SC-TKD-00485,matthew.bansford@amalitech.com,Takoradi,AmaliTech Ghana Ltd,485,True
+Pandit Mckenzie Alabi,NSP-SC-23-0597,pandit.alabi@amalitech.com,Accra,AmaliTech Ghana Ltd,597,True
+Gabriel Mawule Sakyi,NSP-SC-24-0730,gabriel.sakyi@amalitech.com,Kumasi,AmaliTech Ghana Ltd,730,False
+Michael Acheampong,SC-TKD-0130,michael.acheampong@amalitech.com,Takoradi,AmaliTech Ghana Ltd,216,False
+Seth David Gyimah,TC-TKD-0529,sethdavid.gyimah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,529,False
+Bismark Boateng,NSP-SC-24-0723,bismark.boateng@amalitech.com,Accra,AmaliTech Ghana Ltd,723,False
+Asumah Yakubu,SC-TKD-0426,asumah.yakubu@amalitech.com,Kumasi,AmaliTech Ghana Ltd,426,False
+Julius Agbame,NSP-SC-24-0789,julius.agbame@amalitech.com,Takoradi,AmaliTech Ghana Ltd,789,False
+Ernest Sarfo,SC-TKD-0558,ernest.sarfo@amalitech.com,Takoradi,AmaliTech Ghana Ltd,558,True
+Titus Fiifi Appiah,SC-TKD-0815,titus.appiah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,815,False
+Abubakar Sadick Yahaya,SC-TKD-0455,abubakar.yahaya@amalitech.com,Accra,AmaliTech Ghana Ltd,455,False
+Jerry Senyah,SC-TKD-0011,jerry.senyah@amalitech.com,,AmaliTech Ghana Ltd,169,True
+John Jebo,SC-TKD-0015,john.jebo@amalitech.com,,AmaliTech Ghana Ltd,34,True
+Ebenezer Aidoo,,ebenezer.aidoo@amalitech.com,,,57,True
+Konduah Owusu,,konduah.owusu@amalitech.org,,,158,True
+Tharcissie Idufashe,SC-KGL-503,idufashe.tharcissie@amalitech.com,Kigali,AmaliTech Rwanda Ltd,503,False
+Daniel Frimpong,OP-ACC-499,daniel.frimpong@amalitech.com,Accra,AmaliTech Ghana Ltd,499,False
+Amanda Sumabe,OP-ACC-0642,amanda.sumabe@amalitech.com,Accra,AmaliTech Ghana Ltd,642,True
+Klinsmann Agyei,SC-TKD-0182,klinsmann.agyei@amalitech.com,,AmaliTech Ghana Ltd,320,True
+Timothy Hobbs Kumah,SC-TKD-0613,timothy.kumah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,613,False
+Issah Salman,,issah.salman@amalitech.org,,,157,True
+Test Case,,testone@amalitech.org,,,168,True
+Timothy Kotin,SC-GER-0678,timothy.kotin@amalitech.com,Cologne,AmaliTech Services GmbH,678,False
+Salifu Zeba,SC-TKD-0083,salifu.zeba@amalitech.com,Kumasi,AmaliTech Ghana Ltd,172,False
+Nii Armah Nyam Odassey Tettey,NSP-SC-23-0594,nii.tettey@amalitech.com,Accra,AmaliTech Ghana Ltd,594,True
+Precious Jahlom Agboado,SC-ACC-0794,precious.agboado@amalitech.com,Accra,AmaliTech Ghana Ltd,794,False
+Jude Kwofie,SC-TKD-0475,jude.kwofie@amalitech.com,Takoradi,AmaliTech Ghana Ltd,475,False
+Theophilus Kofi Gordon,SC-TKD-0229,theophilus.gordon@amalitech.com,Takoradi,AmaliTech Ghana Ltd,451,False
+George Amoasifynn,OP-TKD-0081,george.amoasifynn@amalitech.com,Takoradi,AmaliTech Ghana Ltd,231,False
+Philip Noye Adumuah,,philip.adumuah@amalitech.org,,,162,True
+Innocent Edem Kuwornu,SC-TKD-0150,innocent.kuwornu@amalitech.com,Accra,AmaliTech Ghana Ltd,244,False
+Edgar  Mutangana,SC-KGL-508,edgar.mutangana@amalitech.com,Kigali,AmaliTech Rwanda Ltd,508,True
+Richmond Mills,,richmond.mills@amalitech.org,,,164,True
+Scott Rockson,,scott.rockson@amalitech.org,,,165,True
+Veronica Buah,,veronica.buah@amalitech.org,,,167,True
+Ebenezer Ansere,,ebenezer.ansere@amalitech.org,,,319,True
+Katrin Hecker,,katrin.hecker@amalitech.com,Kigali,AmaliTech Rwanda Ltd,305,False
+Hussein Amadu,SC-TKD-0416,hussein.amadu@amalitech.com,Takoradi,AmaliTech Ghana Ltd,416,False
+Oswald Owusu-Asiedu Osei,SC-KSI-0813,oswald.osei@amalitech.com,Kumasi,AmaliTech Ghana Ltd,813,True
+Ange Suares Brou,OP-KGL-0832,brou.suares@amalitech.org,Kigali,AmaliTech Rwanda Ltd,832,False
+Louis Binah,NSP-SC-24-0720,louis.binah@amalitech.com,Accra,AmaliTech Ghana Ltd,720,False
+Samuel Hughes-Lartey,,xbull93@gmail.com,,,170,True
+Jennifer Dadzie,,jennifer.dadzie@amalitech.org,,,175,True
+MOHAMMED ADNAN ABDUL HAMID,,mohammed.hamid@amalitech.org,,,177,True
+Joseph Samuel Kofi Doba Arthur,,joseph.arthur@amalitech.org,,,176,True
+Henry Fiifi Mensah,,henry.mensah@amalitech.org,,,179,True
+Charles Onwona Jnr Afari,,charles.afari@amalitech.org,,,181,True
+Clement Ntori,,clement.ntori@amalitech.org,,,145,True
+Elena Seyfert,,elena.seyfert@amalitech.org,,AmaliTech Ghana Ltd,224,True
+Richmond Chris-Koka,SC-ACC-0243,richmond.chris-koka@amalitech.com,,AmaliTech Ghana Ltd,468,True
+Francis Asante Nsiah,TC-TKD-0079,francis.nsiah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,280,False
+Yvonne Marian Yawson,OP-TKD-0003,yvonne.yawson@amalitech.org,Takoradi,AmaliTech Ghana Ltd,13,True
+Umar Bunyaminu,SC-TKD-0120,umar.bunyaminu@amalitech.com,,AmaliTech Ghana Ltd,194,True
+Eugene Pokoo Aikins,SC-TKD-0122,eugenepokooaikins@gmail.com,,AmaliTech Ghana Ltd,205,True
+Jefferson Tuffour Addai,SC-TKD-0137,jefferson.addai-poku@amalitech.com,,AmaliTech Ghana Ltd,209,True
+Charles Kwame Amoah Ansong,SC-TKD-0019,charles.amoah-ansong@amalitech.com,,AmaliTech Ghana Ltd,41,True
+Dennis Owusu,SC-KSI-0807,dennis.owusu@amalitech.com,Kumasi,AmaliTech Ghana Ltd,807,False
+Ernest Owusu Darko,SC-TKD-0369,ernest.darko@amalitech.com,Takoradi,AmaliTech Ghana Ltd,369,False
+David Nii Ayitey Quaye,NSP-SC-24-0778,david.quaye@amalitech.com,Takoradi,AmaliTech Ghana Ltd,778,False
+Jeremiah Hukpati,SC-TKD-0027,hukpati.jeremiah@amalitech.com,,AmaliTech Ghana Ltd,52,True
+Mensah Sitti,,mensah.sitti@amalitech.org,,,226,True
+Jerome Abakah Yawson,,jerome.yawson@amalitech.com,,,39,True
+Elisha Samuel Gyamfi,SC-KSI-0808,elisha.gyamfi@amalitech.com,Kumasi,AmaliTech Ghana Ltd,808,False
+Ernest Kwame Amuzu,SC-TKD-0033,ernest.amuzu@amalitech.com,,AmaliTech Ghana Ltd,59,True
+Benjamin Essilfie Nyame,SC-TKD-0159,benjamin.essilfie-nyame@amalitech.com,,AmaliTech Ghana Ltd,236,True
+Godfred Nsabo,SC-TKD-0058,godfred.nsabo@amalitech.com,Takoradi,AmaliTech Ghana Ltd,82,True
+David Kwasi Mensah Gbekor,SC-TKD-0040,david.mensah-gbekor@amalitech.com,,AmaliTech Ghana Ltd,66,True
+Sumaila Iddrisu,SC-TKD-0059,iddrisu.sumaila@amalitech.com,,AmaliTech Ghana Ltd,83,True
+Augustine Opoku-Kesse,SC-ACC-0484,augustine.opoku-kesse@amalitech.com,Accra,AmaliTech Ghana Ltd,484,True
+Chris Osei Kumi Bimpong,,chris.bimpong@amalitech.org,,,73,True
+Bright Edem Gawu,SC-ACC-0418,bright.gawu@amalitech.com,Takoradi,AmaliTech Ghana Ltd,418,False
+Desmond Yaw Kwao,,desmond.kwao@amalitech.org,,,76,True
+Jude Edem Nyahe,SC-TKD-0226,jude.nyahe@amalitech.com,Takoradi,AmaliTech Ghana Ltd,449,False
+Fredrick Amoako,SC-ACC-495,fredrick.amoako@amalitech.com,Accra,AmaliTech Ghana Ltd,495,False
+Emmanuel Owusu,,emmanuel.owusu@amalitech.org,,,78,True
+Enoch Darko,,enoch.darko@amalitech.org,,,79,True
+Esther Abena Emefa Gayi,,esther.gayi@amalitech.org,,,81,True
+Kwadwo Agyei Baah,,kwadwo.baah@amalitech.org,,,86,True
+Derrick Fosu,,derrick.fosu@amalitech.org,,,75,True
+Rexford Kwofie,,rexford.kwofie@amalitech.org,,,91,True
+Samuel Adumadzie Blankson,SC-TKD-0053,samuel.blankson@amalitech.com,,AmaliTech Ghana Ltd,95,True
+Swintabel Agyei,OP-TKD-0037,swintabel.agyei@amalitech.com,,AmaliTech Ghana Ltd,63,True
+Robert Acquah,,robert.acquah@amalitech.org,,,94,True
+Richard Gyebi,,richard.gyebi@amalitech.org,,,93,True
+Franz-James Wefagi Kaba,NSP-SC-24-0785,franz-james.kaba@amalitech.com,Takoradi,AmaliTech Ghana Ltd,785,False
+Edith Simpson,,edith.simpson@amalitech.org,,,107,True
+Williams Afotey Botchway,,williams.botchway@amalitech.org,,,96,True
+Anabella Tuyisenge,SC-KGL-512,anabella.tuyisenge@amalitech.com,Kigali,AmaliTech Rwanda Ltd,512,False
+Bismark Kwadwo Gyau,SC-TKD-0439,bismark.gyau@amalitech.com,Takoradi,AmaliTech Ghana Ltd,439,False
+Josue Ishara Batey,SC-KGL-652,josue.batey@amalitech.com,Kigali,AmaliTech Rwanda Ltd,652,False
+Dickson Anyaele,SC-ACC-0547,dickson.anyaele@amalitech.com,Accra,AmaliTech Ghana Ltd,547,False
+Reujoy Ekow Amissah,SC-ACC-0602,reujoy.amissah@amalitech.com,Accra,AmaliTech Ghana Ltd,602,False
+Ebenezer Butias,SC-ACC-524,ebenezer.butias@amalitech.com,Accra,AmaliTech Ghana Ltd,524,False
+ute.jonath@amalitech.org,,ute.jonath@amalitech.org,,,6,True
+Samuel Enoh,SC-TKD-0388,samuel.enoh@amalitech.com,Takoradi,AmaliTech Ghana Ltd,388,False
+Anastacia Adu,,anastacia.adu@amalitech.org,,,97,True
+Benjamin Ezekiel Kwesi Biney,,benjamin.biney@amalitech.org,,,98,True
+Bensille Bruce Aburinya,,bensille.aburinya@amalitech.org,,,99,True
+Daniel Opare Baidu,,daniel.baidu@amalitech.org,,,103,True
+David Ngoan Nguessan,,david.nguessan@amalitech.org,,,104,True
+Ebenezer Kwesi Etsiwah,,ebenezer.etsiwah@amalitech.org,,,105,True
+Avornyo Joshua,,joshua.avornyo@amalitech.org,,,114,True
+Edmond Frimpong Asare,,edmond.asare@amalitech.org,,,108,True
+Emmanuel Komla Fianyaglo,,emmanuel.fianyaglo@amalitech.org,,,109,True
+-,,richard.bentil@amalitech.com,,AmaliTech Ghana Ltd,191,True
+Felix Kofi Atsu Ackuayi,,felix.ackuayi@amalitech.org,,,110,True
+Fui Afealete Ocloo,,fui.ocloo@amalitech.org,,,111,True
+Caleb Poku Ackom,SC-TKD-0214,caleb.ackom@amalitech.com,Accra,AmaliTech Ghana Ltd,356,True
+Hakeem Adjei,,hakeem.adjei@amalitech.org,,,113,True
+Hope Ewudor,SC-TKD-0047,hope.ewudor@amalitech.com,Accra,AmaliTech Ghana Ltd,187,False
+Sharaf Deen Okyere,SC-TKD-0007,sharaf.okyere@amalitech.com,Kumasi,AmaliTech Ghana Ltd,18,False
+Samuel Noye,SC-TKD-0158,samuel.noye@amalitech.com,Takoradi,AmaliTech Ghana Ltd,271,True
+Edward Obeng Dankwah,NSP-SC-24-0761,edward.dankwah@amalitech.com,Kumasi,AmaliTech Ghana Ltd,761,False
+Gordon Fiifi Donkoh,SC-ACC-0010,gordon.donkoh@amalitech.com,Accra,AmaliTech Ghana Ltd,22,False
+Abdul-Razak Hussein,SC-TKD-0442,abdul-razak.hussein@amalitech.com,Takoradi,AmaliTech Ghana Ltd,442,False
+Samuel Sarpong Baah,,samuel.baah@amalitech.org,,,116,True
+Victoria Elorm Agbemor Brayn,,victoria.brayn@amalitech.org,,,118,True
+Grace Adorsu,,grace.adorsu@amalitech.org,,,9,True
+Michael Asante,,michael.asante@amalitech.org,,,88,True
+Gideon Ahiadzi,SC-TKD-0076,gideon.ahiadzi@amalitech.com,,AmaliTech Ghana Ltd,154,True
+Gloria Adjei,SC-TKD-0057,gloria.adjei@amalitech.org,,AmaliTech Ghana Ltd,155,True
+Raymond Yaw Normeshie,SC-TKD-0063,raymond.normeshie@amalitech.com,,AmaliTech Ghana Ltd,163,True
+Douglas Twumasi,,douglas.twumasi@amalitech.org,,,151,True
+Colin Aryee,,colin.aryee@amalitech.org,,,146,True
+Daniel Ninsin Quansah,,danielnquansah@gmail.com,,,148,True
+Anathole Karinganire,SC-KGL-518,anathole.karinganire@amalitech.com,Kigali,AmaliTech Rwanda Ltd,518,False
+Jenef-Great Alemonai,SC-KSI-0812,jenef-great.alemonai@amalitech.com,Kumasi,AmaliTech Ghana Ltd,812,False
+Daniel Sarpong,,daniel.sarpong@amalitech.org,,,149,True
+Annegret Agyemang,NSP-TC-24-0766,annegret.agyemang@amalitech.com,Takoradi,AmaliTech Ghana Ltd,766,False
+Jerry Agbesi,SC-ACC-0577,jerry.agbesi@amalitech.com,Accra,AmaliTech Ghana Ltd,577,False
+Judith Appartaim,OP-TKD-0089,judith.appartaim@amalitech.com,Takoradi,AmaliTech Ghana Ltd,292,False
+Darlington Nyarko,,darlington.nyarko@amalitech.org,,,193,True
+Nana Kwaku Owusu,,nana.owusu@amalitech.org,,,195,True
+Nachiket Apte,SC-ACC-0491,nachiket.apte@amalitech.com,Accra,AmaliTech Ghana Ltd,491,False
+Moses Nyui Gaveh,SC-ACC-494,moses.gaveh@amalitech.com,Accra,AmaliTech Ghana Ltd,494,False
+Mercy Amankwah-Sakyi,,mercy.amankwah-sakyi@amalitech.org,,,206,True
+Daniel Kwadwo Sah,NSP-SC-24-0755,daniel.sah@amalitech.com,Kumasi,AmaliTech Ghana Ltd,755,False
+Daniel Kwaku Osei,,daniel.osei@amalitech.org,,,201,True
+Koffi Noël Loutsou,,noel.loutsou@amalitech.org,,,202,True
+Timothy Asare,,timothy.asare@amalitech.org,,,211,True
+Joseph Lartey Adu,,joseph.adu@amalitech.org,,,208,True
+Elvis Boateng,,elvis.boateng@amalitech.org,,,212,True
+JAMES ASANTE AMPADU,,james.ampadu@amalitech.org,,,214,True
+Ebenezer Nana Duku,,ebenezer.duku@amalitech.org,,,268,True
+Emmanuel Kwabena Asabere,SC-ACC-0552,kwabena.asabere@amalitech.com,Accra,AmaliTech Ghana Ltd,552,False
+Christian Ruckteschler,,christian.ruckteschler@amalitech.com,Takoradi,AmaliTech Ghana Ltd,352,False
+Kweku Gyimah-turkson,SC-TKD-0488,kweku.gyimah-turkson@amalitech.com,Takoradi,AmaliTech Ghana Ltd,488,False
+Joseph Penty,TC-ACC-0796,joseph.penty@amalitech.com,Accra,AmaliTech Ghana Ltd,796,False
+Salami Suleiman,TC-TKD-0006,salami.suleiman@amalitech.com,Takoradi,AmaliTech Ghana Ltd,16,False
+Diana Dede Yawa Dagadu,,dianadagadu@gmail.com,,,272,True
+Francis Kwame Paintsil,SC-TKD-0170,francis.paintsil@amalitech.com,,AmaliTech Ghana Ltd,241,True
+Timothy Yeboah,SC-TKD-0161,timothy.yeboah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,255,False
+Isaac Obour Mensah,SC-TKD-0173,nanaobour20@yahoo.com,,AmaliTech Ghana Ltd,245,True
+Joseph Quayson,SC-TKD-0168,joseph.quayson@amalitech.com,,AmaliTech Ghana Ltd,248,True
+Ephraim Mawutor Adehenu,,ephraim.adehenu@amalitech.org,,,227,True
+Pritchard Chimbari,OP-KGL-637,pritchard.chimbari@amalitech.com,Kigali,AmaliTech Rwanda Ltd,637,False
+Joseph Ephraim-Addison,,joseph.addison@amalitech.org,,,228,True
+Adam Basheer,,adam.basheer@amalitech.org,,,234,True
+Daniel Agbey,,daniel.agbey@amalitech.org,,,238,True
+Frimpong Kwame Daniel,,daniel.frimpong@amalitech.com,,,239,True
+Frank Kweku Agbeko,,frank.agbeko@amalitech.org,,,242,True
+Philip Owusu Asare,TKD-0157,philip.asare@amalitech.com,,AmaliTech Ghana Ltd,252,True
+Samuel Michael Amui,SC-TKD-0167,samuel.amui@amalitech.com,,AmaliTech Ghana Ltd,254,True
+Reginald Torkornoo,SC-TKD-0153,reginald.torkonoo@amalitech.com,,AmaliTech Ghana Ltd,256,True
+Berlinda Anaman,,Berlana.d@gmail.com,,,258,True
+Ebenezer Nakotey Tetteh,SC-TKD-0155,ebenezer.tetteh@amalitech.com,,AmaliTech Ghana Ltd,266,True
+George Ofosu Mensah,SC-TKD-0149,george.mensah@amalitech.com,,AmaliTech Ghana Ltd,267,True
+Charles Damascus Togah,SC-TKD-0092,charles.togah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,101,False
+Elizabeth Bermudez,,elizabeth.bermudez@amalitech.com,Cologne,AmaliTech Services GmbH,343,False
+Vanessa Addo,NSP-TC-24-0713,vanessa.addo@amalitech.com,Kumasi,AmaliTech Ghana Ltd,713,False
+Obed Ampah,SC-TKD-0062,obed.ampah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,160,False
+Nii Nai Mensah Anyetei,,nii.anyetei@amalitech.org,,,250,True
+Francis Dowuona,,francis.dowuona@amalitech.org,,,265,True
+Pamela Tierter Dianon,,pamela.dianon@amalitech.org,,,251,True
+Prince Awuah Karikari,,prince.karikari@amalitech.org,,,253,True
+Glen Nii Noi Anum,,glen.anum@amalitech.org,,,257,True
+Lewis Dzacka,SC-TKD-0023,lewis.dzacka@amalitech.com,Takoradi,AmaliTech Ghana Ltd,47,False
+Austin Botchwey,TC-TKD-0090,austin.botchwey@amalitech.com,Takoradi,AmaliTech Ghana Ltd,173,False
+Gilbert Niyongere,SC-KGL-632,gilbert.niyongere@amalitech.com,Kigali,AmaliTech Rwanda Ltd,632,False
+Paul Kofi Osei,SC-TKD-0113,paul.osei@amalitech.com,Kumasi,AmaliTech Ghana Ltd,304,False
+Vincent Danso Aboagye,OP-TKD-0114,vincent.aboagye@amalitech.org,,AmaliTech Ghana Ltd,295,True
+Kwaku Ampofo Agyapong,SC-TKD-0169,kwaku.agyapong@amalitech.com,,AmaliTech Ghana Ltd,311,True
+Emmanuel ofosu Koranteng,OP-ACC-0178,emmanuel.koranteng@amalitech.org,,AmaliTech Ghana Ltd,316,True
+Ebenezer Ashong,SC-TKD-0194,ebenezer.ashong@amalitech.com,,AmaliTech Ghana Ltd,336,True
+Maame Esi Baidoo,SC-TKD-0197,maame.baidoo@amalitech.com,,AmaliTech Ghana Ltd,339,True
+Werner Oscar Tsekumah,SC-TKD-0222,werner.tsekumah@amalitech.com,,AmaliTech Ghana Ltd,364,True
+Raphael Frank Mawuko Torsu,SC-TKD-0217,raphael.torsu@amalitech.com,,AmaliTech Ghana Ltd,359,True
+Edmund Adomako,SC-TKD-0223,edmund.adomako@amalitech.com,,AmaliTech Ghana Ltd,365,True
+Robert Elinam Hlovor,SC-TKD-0240,robert.hlovor@amalitech.com,Takoradi,AmaliTech Ghana Ltd,464,False
+Michael Idun Hagan,SC-TKD-0206,michael.hagan@amalitech.com,Takoradi,AmaliTech Ghana Ltd,349,False
+George Mintah,SC-TKD-0056,george.mintah@amalitech.com,,AmaliTech Ghana Ltd,112,True
+Alhassan Abdul-Razak,TKD-0192,alhassan.razak@amalitech.com,,AmaliTech Ghana Ltd,334,True
+Enoch Boison,SC-TKD-0237,enoch.boison@amalitech.com,Takoradi,AmaliTech Ghana Ltd,461,False
+Kwaku Ntim Owusu-Ansa,,Kwaku.owusu-ansa@amalitech.org,,,87,True
+Swithin Annor Okyere,SC-ACC-0616,swithin.okyere@amalitech.com,Accra,AmaliTech Ghana Ltd,616,False
+Bright Akuamoah Boateng,,bright.boateng@amalitech.org,,,144,True
+Hubert Okoe,,hubert.okoe@amalitech.org,,,222,True
+Angela Frimpong,,test@gmail.com,,AmaliTech Ghana Ltd,26,True
+Charles Arthur Warden,SC-TKD-0069,charles.warden@amalitech.com,Takoradi,AmaliTech Ghana Ltd,100,True
+Solomon Owusu Sarfo,SC-TKD-0186,solomon.sarfo@amalitech.com,Takoradi,AmaliTech Ghana Ltd,325,False
+Alex Kwabena Amankwa Owusu,SC-TKD-0026,alex.amankwa@amalitech.com,,AmaliTech Ghana Ltd,51,True
+Joseph Kwadjo Ampadu,NSP-SC-23-0578,joseph.ampadu@amalitech.com,Takoradi,AmaliTech Ghana Ltd,578,True
+Cyril Baah,SC-TKD-0154,cyril.baah@amalitech.com,,AmaliTech Ghana Ltd,237,True
+-,,frank.adansi@amalitech.org,,,270,True
+-,,elijah.appiah@amalitech.org,,,240,True
+-,,abigail.baidoo@amalitech.com,,,186,True
+-,,sos@amalitech.org,,,230,True
+-,,kelvin.owusu@amalitech.org,,,278,True
+-,,martin.hecker@amalitech.com,,,192,True
+Godwin Kojo Edor,OP-TKD-0088,godwin.edor@amalitech.com,Takoradi,AmaliTech Ghana Ltd,290,False
+-,,topista.lamaro@amalitech.org,,,275,True
+Fuad Muhammed,SC-ACC-0408,fuad.muhammed@amalitech.com,Accra,AmaliTech Ghana Ltd,408,False
+Joseph Kobina Sam,SC-TKD-0378,joseph.sam@amalitech.com,Takoradi,AmaliTech Ghana Ltd,378,False
+Rebecca Agyei,SC-TKD-0152,rebecca.agyei@amalitech.com,Takoradi,AmaliTech Ghana Ltd,260,False
+Bridget Ntriwaa Appiah,OP-KSI-0679,bridget.appiah@amalitech.com,Kumasi,AmaliTech Ghana Ltd,679,False
+Ruth Anandzi Armoo,OP-TKD-0447,ruth.armoo@amalitech.com,Takoradi,AmaliTech Ghana Ltd,447,False
+Eric Obeng,SC-KSI-0811,eric.obeng@amalitech.com,Kumasi,AmaliTech Ghana Ltd,811,False
+Essel Apusiga Abraham,NSP-SC-24-0738,essel.abraham@amalitech.com,Kumasi,AmaliTech Ghana Ltd,738,False
+-,,testemail@amalitech.com,,,299,True
+-,,richard.lawer@amalitech.org,,,262,True
+-,,trainingintern.one@amalitech.org,,,291,True
+Jojo Akwaah Abbiw,SC-TKD-0031,jojo.abbiw@amalitech.com,Accra,AmaliTech Ghana Ltd,56,False
+Matthew Darkwa,OP-TKD-0001,matthew.darkwa@amalitech.com,,AmaliTech Ghana Ltd,3,False
+Joseph Adeabah,SC-TKD-0151,joseph.adeabah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,247,True
+Emmanuel Bortsie,OP-TKD-0210,emmanuel.bortsie@amalitech.com,Takoradi,AmaliTech Ghana Ltd,309,False
+Patrick Markin-Yankah,SC-TKD-0067,patrick.markin-yankah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,161,False
+Sherifa Asankomah,OP-TKD-0211,sherifa.assankomah@amalitech.com,Kumasi,AmaliTech Ghana Ltd,307,False
+Emily Quarshie,NSP-SC-24-0704,emily.quarshie@amalitech.com,Accra,AmaliTech Ghana Ltd,704,False
+Farida Baberin-Yor Beacher,OP-TKD-0045,farida.beacher@amalitech.com,Takoradi,AmaliTech Ghana Ltd,185,False
+Dennis Machu,SC-TKD-0084,dennis.machu@amalitech.com,Cologne,AmaliTech Services GmbH,233,False
+Alexander Agyeman,SC-ACC-0816,alexander.agyeman@amalitech.com,Accra,AmaliTech Ghana Ltd,816,False
+Anita Nana Ama Agyepong,OP-TKD-0174,anita.agyepong@amalitech.com,Takoradi,AmaliTech Ghana Ltd,312,False
+Samuel Amo,SC-KSI-0814,samuel.amo@amalitech.com,Kumasi,AmaliTech Ghana Ltd,814,False
+Segun Wale Ajomo,SC-TKD-0175,wale.ajomo@amalitech.com,Takoradi,AmaliTech Ghana Ltd,313,False
+Benjamin Andoh,SC-TKD-0013,benjamin.andoh@amalitech.com,Takoradi,AmaliTech Ghana Ltd,32,True
+Robert Sam,SC-TKD-0218,robert.sam@amalitech.com,Takoradi,AmaliTech Ghana Ltd,360,False
+Ama Gyaa Brobbey,SC-TKD-0022,ama.brobbey@amalitech.com,Takoradi,AmaliTech Ghana Ltd,46,False
+Nathan Nunana Kulewoshie,SC-ACC-0593,nathan.kulewoshie@amalitech.com,Accra,AmaliTech Ghana Ltd,593,False
+Richard Appiah,SC-TKD-0077,richard.appiah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,92,True
+Sandra Abena Kumi,SC-KSI-0809,sandra.kumi@amalitech.com,Kumasi,AmaliTech Ghana Ltd,809,False
+Godsway Kojo Nyatuame,SC-TKD-0036,godsway.nyatuame@amalitech.com,Takoradi,AmaliTech Ghana Ltd,62,False
+Divine Duah,SC-ACC-00487,divine.duah@amalitech.com,Accra,AmaliTech Ghana Ltd,487,False
+Jonathan Kusi Nsiah,SC-TKD-0046,jonathan.nsiah@amalitech.com,Accra,AmaliTech Ghana Ltd,188,False
+Anna  Schüller,OP-GER-0791,anna.schuller@amalitech.com,Cologne,AmaliTech Services GmbH,791,False
+Azalia Ashilabe,SC-TKD-0024,azalia.ashilabe@amalitech.com,Takoradi,AmaliTech Ghana Ltd,49,True
+Gideon Nti Boateng,SC-TKD-0195,gideon.boateng@amalitech.com,Kumasi,AmaliTech Ghana Ltd,337,False
+Stephen Seyram Kodzo Diaba,SC-TKD-0199,stephen.diaba@amalitech.com,Takoradi,AmaliTech Ghana Ltd,341,False
+Francis Buabin Owusu,SC-TKD-0411,francis.owusu@amalitech.com,Takoradi,AmaliTech Ghana Ltd,411,True
+Ayawavi Diane Adeline Missewou,SC-TKD-0039,missewuo.diane@amalitech.com,Takoradi,AmaliTech Ghana Ltd,65,False
+Pius Prince Oduro,SC-TKD-0396,pius.oduro@amalitech.com,Takoradi,AmaliTech Ghana Ltd,396,False
+Samuel Mawuli Azumah,SC-TKD-0064,samuel.azumah@amalitech.com,Kumasi,AmaliTech Ghana Ltd,115,False
+Adolf Menano,SC-TKD-0025,adolf.menano@amalitech.com,Takoradi,AmaliTech Ghana Ltd,50,False
+Mildred Akpene Aku Vittor,-TKD-0164,mildred.vittor@amalitech.com,Takoradi,AmaliTech Ghana Ltd,249,False
+Linda Kumah,SC-TKD-0166,linda.kumah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,273,False
+Sadia Ibrahim Abugbilla,OP-TKD-0428,sadia.ibrahim@amalitech.com,Takoradi,AmaliTech Ghana Ltd,428,False
+Bless Ahadjie,SC-TKD-0538,bless.ahadjie@amalitech.com,Takoradi,AmaliTech Ghana Ltd,538,False
+Abigail Nyameyie Arko,SC-TKD-0415,abigail.arko@amalitech.com,Takoradi,AmaliTech Ghana Ltd,415,False
+Benjamin Arthur,SC-TKD-0018,arthur.benjamin@amalitech.com,Takoradi,AmaliTech Ghana Ltd,40,False
+Mediatrice Niyimfashije,OP-KGL-0682,mediatrice.niyimfashije@amalitech.com,Kigali,AmaliTech Rwanda Ltd,682,False
+Michael Kwame Johnson,SC-ACC-0689,michael.johnson@amalitech.com,Accra,AmaliTech Ghana Ltd,689,False
+Paul Lawer Terku,NSP-SC-24-0703,paul.terku@amalitech.com,Accra,AmaliTech Ghana Ltd,703,False
+Prince Kwabena Kyeremeh,NSP-SC-24-0736,prince.kyeremeh@amalitech.com,Kumasi,AmaliTech Ghana Ltd,736,False
+Vincent Andoh Sarsah,SC-TKD-0065,vincent.sarsah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,119,False
+Tracy Sarah Afram-Owusu,SC-TKD-0221,tracy.afram-owusu@amalitech.com,Takoradi,AmaliTech Ghana Ltd,363,False
+Michael Obeng Fordah,NSP-SC-24-0754,michael.fordah@amalitech.com,Kumasi,AmaliTech Ghana Ltd,754,False
+Abdul Rauf Mustapha,NSP-SC-24-0697,abdul.mustapha@amalitech.com,Accra,AmaliTech Ghana Ltd,697,False
+Bernice Bonney,NSP-OP-24-0771,bernice.bonney@amalitech.com,Takoradi,AmaliTech Ghana Ltd,771,False
+Aaron Will Djaba,NSP-SC-24-0708,aaron.djaba@amalitech.com,Accra,AmaliTech Ghana Ltd,708,False
+Agnes Dedzo,OP-ACC-0177,agnes.dedzo@amalitech.com,Accra,AmaliTech Ghana Ltd,314,False
+Yaw Imbeah Mintah,NSP-SC-24-0721,yaw.mintah@amalitech.com,Accra,AmaliTech Ghana Ltd,721,False
+Mark-Hill Ampomah,NSP-SC-24-0751,mark-hill.ampomah@amalitech.com,Kumasi,AmaliTech Ghana Ltd,751,False
+Nana Yaw Nhyira Butah,SC-ACC-0663,nanayaw.butah@amalitech.com,Accra,AmaliTech Ghana Ltd,663,False
+Jedidiah Eyiah-King,SC-TKD-0124,jedidiah.eyiah-king@amalitech.com,Takoradi,AmaliTech Ghana Ltd,198,False
+Nana Yaw Adjei Darko,SC-ACC-0800,nana.darko@amalitech.com,Accra,AmaliTech Ghana Ltd,800,False
+David Odediran,TC-ACC-0662,david.odediran@amalitech.com,Accra,AmaliTech Ghana Ltd,662,False
+Japhet Rwamugema,SC-KGL-631,japhet.rwamugema@amalitech.com,Kigali,AmaliTech Rwanda Ltd,631,False
+Abudu Samadu,NSP-SC-24-0756,abudu.samadu@amalitech.com,Kumasi,AmaliTech Ghana Ltd,756,False
+Charles Ndayisaba,SC-KGL-502,charles.ndayisaba@amalitech.com,Kigali,AmaliTech Rwanda Ltd,502,False
+Emmanuel Kwesi Asaber,TC-TKD-0043,emmanuel.asaber@amalitech.com,Kumasi,AmaliTech Ghana Ltd,23,False
+Joseph Kofi Abuanor,SC-TKD-0052,joseph.abuanor@amalitech.com,Accra,AmaliTech Ghana Ltd,84,False
+Abdul-Rashid Issah,NSP-SC-24-0784,abdul-rashid.issah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,784,False
+Ewurabena Amoa-bosompem,SC-ACC-0478,ewurabena.amoa-bosompem@amalitech.com,Accra,AmaliTech Ghana Ltd,478,False
+Eric Nana Kpabi,SC-TKD-0051,eric.kpabi@amalitech.com,Takoradi,AmaliTech Ghana Ltd,80,False
+Francis Opoku,OP-TKD-525,francis.opoku@amalitech.com,Kumasi,AmaliTech Ghana Ltd,525,False
+Bilal Maltiti Abubakari,SC-TKD-0374,bilal.abubakari@amalitech.com,Takoradi,AmaliTech Ghana Ltd,374,False
+Rexford Kofi Koomson,SC-TKD-0189,rexford.koomson@amalitech.com,Takoradi,AmaliTech Ghana Ltd,323,False
+Christian Nii Solomon,NSP-SC-24-0710,christian.solomon@amalitech.com,Accra,AmaliTech Ghana Ltd,710,False
+Prince Twumasi Asamoah,SC-TKD-0228,prince.asamoah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,450,False
+Ampomah Winston,SC-TKD-0144,ampomah.winston@amalitech.com,Takoradi,AmaliTech Ghana Ltd,276,True
+Blaise  Niyonkuru,SC-KGL-501,blaise.niyonkuru@amalitech.com,Kigali,AmaliTech Rwanda Ltd,501,True
+Joel Paa-Kow Amuasi,SC-TKD-0445,joel.amuasi@amalitech.com,Takoradi,AmaliTech Ghana Ltd,445,False
+Racheal Popoola,TC-ACC-0795,racheal.popoola@amalitech.com,Accra,AmaliTech Ghana Ltd,795,False
+Keziah Lamptey,NSP-OP-24-0772,keziah.lamptey@amalitech.com,Takoradi,AmaliTech Ghana Ltd,772,False
+Emmanuel Eshun,SC-TKD-0230,emmanuel.eshun@amalitech.com,Takoradi,AmaliTech Ghana Ltd,452,False
+Diana Aborah Blankson,SC-TKD-0215,diana.blankson@amalitech.com,Takoradi,AmaliTech Ghana Ltd,357,False
+Kevin Rukundo,SC-KGL-513,kevin.rukundo@amalitech.com,Kigali,AmaliTech Rwanda Ltd,513,False
+Heskey Amoako Fordjour,NSP-SC-24-0786,heskey.fordjour@amalitech.com,Takoradi,AmaliTech Ghana Ltd,786,False
+Robertson Asare Otoo,SC-TKD-0116,otoo.asare@amalitech.com,Takoradi,AmaliTech Ghana Ltd,199,False
+Al-Hussein Abubakar,SC-TKD-0146,al-hussein.abubakar@amalitech.com,Kumasi,AmaliTech Ghana Ltd,261,True
+Mawuli Badassou,SC-ACC-0586,mawuli.badassou@amalitech.com,Accra,AmaliTech Ghana Ltd,586,False
+Clifford Agyabeng Kwakye,SC-TKD-0544,clifford.kwakye@amalitech.com,Takoradi,AmaliTech Ghana Ltd,544,False
+Julius Markwei,NSP-SC-24-0700,julius.markwei@amalitech.com,Accra,AmaliTech Ghana Ltd,700,False
+Jerome Awonniseba Akumasi,SC-TKD-0576,jerome.akumasi@amalitech.com,Takoradi,AmaliTech Ghana Ltd,576,False
+Aime Aubin Irakoze,SC-KGL-640,aubin.irakoze@amalitech.com,Kigali,AmaliTech Rwanda Ltd,640,True
+Halic Mahamudu,NSP-SC-24-0752,halic.mahamudu@amalitech.com,Kumasi,AmaliTech Ghana Ltd,752,False
+George Junior Guildford,SC-TKD-0480,george.guildford@amalitech.com,Takoradi,AmaliTech Ghana Ltd,480,True
+Theophilus Boakye Yiadom,SC-TKD-0220,theophilus.yiadom@amalitech.com,Takoradi,AmaliTech Ghana Ltd,362,True
+Mubarik Nsoh Alalinga,SC-TKD-0200,alalinga.mubarik@amalitech.com,Kumasi,AmaliTech Ghana Ltd,342,False
+Christian Jones,NSP-SC-23-0541,christian.jones@amalitech.com,Takoradi,AmaliTech Ghana Ltd,541,True
+Reuben Ekow Yawson,SC-TKD-0191,reuben.yawson@amalitech.com,Takoradi,AmaliTech Ghana Ltd,333,True
+Abdul-raziq Wumpini Baba,SC-TKD-0531,abdul-raziq.baba@amalitech.com,Takoradi,AmaliTech Ghana Ltd,531,True
+Bernard Essilfie,NSP-SC-24-0777,bernard.essilfie@amalitech.com,Takoradi,AmaliTech Ghana Ltd,777,False
+Emmanuel Darkwah Ampofo,SC-TKD-0165,emmanuel.ampofo@amalitech.com,Takoradi,AmaliTech Ghana Ltd,264,False
+Alice Fremah Boakye,SC-TKD-0534,alice.boakye@amalitech.com,Takoradi,AmaliTech Ghana Ltd,534,False
+Miriam Magdalena Moosbauer,,miriam.moosbauer@amalitech.com,,AmaliTech Services GmbH,344,False
+Maxwell Antwi,NSP-SC-23-0590,maxwell.antwi@amalitech.com,Takoradi,AmaliTech Ghana Ltd,590,True
+Levy Bumwe,SC-KGL-521,levy.ubumwe@amalitech.com,Kigali,AmaliTech Rwanda Ltd,521,False
+Felix Osei Danso,SC-TKD-0382,felix.osei@amalitech.com,Takoradi,AmaliTech Ghana Ltd,382,False
+Sefakor Edwina Dodor,SC-TKD-0430,sefakor.dodor@amalitech.com,Takoradi,AmaliTech Ghana Ltd,430,False
+Mary Mensah,NSP-SC-24-0775,mary.mensah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,775,False
+Bentil Okyere Boadu,SC-TKD-0193,bentil.boadu@amalitech.com,Takoradi,AmaliTech Ghana Ltd,335,False
+Benjamin Nyankson,SC-TKD-0383,benjamin.nyankson@amalitech.com,Takoradi,AmaliTech Ghana Ltd,383,False
+Pauline Amah Atikpo,OP-TKD-0668,pauline.atikpo@amalitech.org,Takoradi,AmaliTech Ghana Ltd,668,False
+Fafa Aboagye,NSP-SC-24-0699,fafa.aboagye@amalitech.com,Accra,AmaliTech Ghana Ltd,699,False
+Eligrand Nezerwa,SC-KGL-653,eligrand.nezerwa@amalitech.com,Kigali,AmaliTech Rwanda Ltd,653,False
+Magnus Abeiku Kutuson,NSP-SC-24-0774,magnus.kutuson@amalitech.com,Takoradi,AmaliTech Ghana Ltd,774,False
+Mona Schönfelder,OP-GER-643,mona.schoenfelder@amalitech.com,Cologne,AmaliTech Services GmbH,643,False
+Faustin Niyonizeye,SC-KGL-519,faustin.niyonizeye@amalitech.com,Kigali,AmaliTech Rwanda Ltd,519,False
+Ebenezer Quayson,NSP-SC-24-0788,ebenezer.quayson@amalitech.com,Takoradi,AmaliTech Ghana Ltd,788,False
+Stephen Seirh,NSP-OP-24-0693,stephen.seirh@amalitech.com,Accra,AmaliTech Ghana Ltd,693,False
+Emmanuel Kofi Acquaah,NSP-SC-23-0553,emmanuel.acquaah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,553,True
+Methuselah Nwodobeh,SC-TKD-0422,methuselah.nwodobeh@amalitech.com,Takoradi,AmaliTech Ghana Ltd,422,False
+Clement Owireku-bogyah,SC-TKD-0543,clement.owireku-bogyah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,543,False
+Angela Tenkorang,NSP-TC-24-0765,angela.tenkorang@amalitech.com,Takoradi,AmaliTech Ghana Ltd,765,False
+Maxwell Adomako,SC-ACC-0587,maxwell.adomako@amalitech.com,Accra,AmaliTech Ghana Ltd,587,False
+Ann Opare-akonor,OP-TKD-0438,ann.opare-akonor@amalitech.com,Takoradi,AmaliTech Ghana Ltd,438,False
+Koffi Andrew Ndri,SC-TKD-0204,koffi.ndri@amalitech.com,Takoradi,AmaliTech Ghana Ltd,350,False
+Moses Winbood Ayandau,NSP-SC-24-0732,moses.ayandau@amalitech.com,Kumasi,AmaliTech Ghana Ltd,732,False
+James Nerquaye-tetteh,NSP-SC-23-0572,james.nerquaye-tetteh@amalitech.com,Accra,AmaliTech Ghana Ltd,572,True
+Kwamena Amo Dadey,TC-TKD-0009,kwamena.amo-dadey@amalitech.com,Accra,AmaliTech Ghana Ltd,20,False
+Isaac Ampomah,SC-TKD-0232,isaac.ampomah@amalitech.com,Kumasi,AmaliTech Ghana Ltd,454,False
+Samuel Ohene Larbi,SC-TKD-0607,samuel.larbi@amalitech.com,Takoradi,AmaliTech Ghana Ltd,607,False
+Jean-Eudes Kofi Dalmeida,SC-TKD-0196,dalmeida.jean-eudes@amalitech.com,Takoradi,AmaliTech Ghana Ltd,338,False
+Akwasi Akom Kusi-appiah,SC-ACC-0482,akwasi.kusi-appiah@amalitech.com,Accra,AmaliTech Ghana Ltd,482,False
+Eddy Nzobarinda,SC-KGL-625,eddy.nzobarinda@amalitech.com,Kigali,AmaliTech Rwanda Ltd,625,False
+Paul Blankson,NSP-SC-24-0781,paul.blankson@amalitech.com,Takoradi,AmaliTech Ghana Ltd,781,False
+Daniel Panyin Mensah,NSP-SC-23-0545,daniel.mensah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,545,True
+Henry Ofosu Ansah,TC-ACC-0330,henry.ansah@amalitech.org,Accra,AmaliTech Ghana Ltd,330,True
+Zeeshan Ahmad,,zeeshan.ahmad@amalitech.org,Cologne,AmaliTech Services GmbH,29,True
+Lawrence Mpetey,SC-ACC-0650,lawrence.mpetey@amalitech.com,Accra,AmaliTech Ghana Ltd,650,True
+Philip Odzor,OP-TKD-0599,philip.odzor@amalitech.com,Takoradi,AmaliTech Ghana Ltd,599,False
+Finance Auditor,OP-TKD-645,auditor.finance@amalitech.org,Takoradi,AmaliTech Ghana Ltd,645,True
+Zerebel Tanu,NSP-SC-24-0719,zerebel.tanu@amalitech.com,Accra,AmaliTech Ghana Ltd,719,False
+Patrick Kisseh Ayornu,OP-ACC-0527,patrick.ayornu@amalitech.com,Accra,AmaliTech Ghana Ltd,527,False
+Ann-Vanessa Lartey,NSP-SC-24-0705,ann-vanessa.lartey@amalitech.com,Accra,AmaliTech Ghana Ltd,705,False
+Maxwell Elorm Ahiable,NSP-SC-23-0589,maxwell.ahiable@amalitech.com,Takoradi,AmaliTech Ghana Ltd,589,True
+Marzuk Sanni Entsie,NSP-SC-24-0707,marzuk.entsie@amalitech.com,Accra,AmaliTech Ghana Ltd,707,False
+Katy Mande Aristote,SC-KGL-498,katy.aristote@amalitech.com,Kigali,AmaliTech Rwanda Ltd,498,False
+Adwoa Serwaa Boafo,OP-KSI-0670,adwoa.boafo@amalitech.com,Kumasi,AmaliTech Ghana Ltd,670,False
+Elliott Kobby Awayiga,SC-ACC-517,elliott.awayiga@amalitech.com,Accra,AmaliTech Ghana Ltd,517,False
+Daniel Kusi Boateng,SC-TKD-496,daniel.boateng@amalitech.com,Kumasi,AmaliTech Ghana Ltd,496,False
+Michael Kwame Appiah,NSP-SC-24-0709,michael.appiah@amalitech.com,Accra,AmaliTech Ghana Ltd,709,False
+Michael Agyeman Darko,NSP-SC-24-0726,michael.darko@amalitech.com,Kumasi,AmaliTech Ghana Ltd,726,False
+Sam Ackah,SC-TKD-0605,sam.ackah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,605,False
+Julius Sowah Adjetey,NSP-SC-24-0722,julius.sowah@amalitech.com,Kumasi,AmaliTech Ghana Ltd,722,False
+Abigail Woolley,SC-ACC-0790,abigail.woolley@amalitech.com,Accra,AmaliTech Ghana Ltd,790,False
+Perseus Marvin Nii Odartey Bruce,SC-ACC-0423,bruce.marvin@amalitech.com,Accra,AmaliTech Ghana Ltd,423,False
+Listowel Adolwin Moro,NSP-SC-24-0744,listowel.moro@amalitech.com,Kumasi,AmaliTech Ghana Ltd,744,False
+Rodrigue Bonheur Ishimwe,SC-KGL-655,rodrigue.ishimwe@amalitech.com,Kigali,AmaliTech Rwanda Ltd,655,False
+Kwasi Sakyi Baidoo,NSP-SC-24-0733,kwasi.baidoo@amalitech.com,Kumasi,AmaliTech Ghana Ltd,733,False
+Angelique Uwimbabazi,OP-KGL-0672,angelique.uwimbabazi@amalitech.com,Kigali,AmaliTech Rwanda Ltd,672,False
+Nawas Hutchful,NSP-SC-24-0782,nawas.hutchful@amalitech.com,Takoradi,AmaliTech Ghana Ltd,782,False
+John Djama Kofi Kponyo,NSP-SC-24-0706,john.kponyo@amalitech.com,Accra,AmaliTech Ghana Ltd,706,False
+Sharon Betty Koomson,OP-TKD-0610,sharon.koomson@amalitech.com,Takoradi,AmaliTech Ghana Ltd,610,False
+Mark Yaw Addo,TC-KSI-0680,mark.addo@amalitech.com,Kumasi,AmaliTech Ghana Ltd,680,False
+Kingsley Segu Acquah,SC-ACC-0583,kingsley.acquah@amalitech.com,Accra,AmaliTech Ghana Ltd,583,False
+Charles Agyapong,OP-TKD-0201,charles.agyapong@amalitech.com,Takoradi,AmaliTech Ghana Ltd,345,False
+Eritten Gyau,NSP-SC-23-617,eritten.gyau@amalitech.com,Accra,AmaliTech Ghana Ltd,617,True
+Ebenezer Jojo Mensah,SC-TKD-0471,ebenezer.mensah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,471,False
+Emmanuel Junior Oppong,SC-ACC-0394,emmanuel.oppong@amalitech.com,Takoradi,AmaliTech Ghana Ltd,394,False
+Michael Nana Kwame Akuetteh,SC-TKD-0444,michael.akuetteh@amalitech.com,Takoradi,AmaliTech Ghana Ltd,444,False
+Patrick Kwabena Tettey,OP-ACC-516,patrick.tettey@amalitech.com,Accra,AmaliTech Ghana Ltd,516,False
+Ange Uwimana,OP-KGL-0658,ange.uwimana@amalitech.com,Kigali,AmaliTech Rwanda Ltd,658,False
+Jacobs Somuah Agyei,SC-TKD-0571,jacobs.agyei@amalitech.com,Takoradi,AmaliTech Ghana Ltd,571,False
+Joseph Nkuah Kwarteng,SC-TKD-0579,joseph.kwarteng@amalitech.com,Takoradi,AmaliTech Ghana Ltd,579,False
+Georgina Badu Asare,SC-TKD-0567,georgina.asare@amalitech.com,Takoradi,AmaliTech Ghana Ltd,567,False
+Gloria Tani Tampuri,SC-KSI-0665,gloria.tampuri@amalitech.com,Kumasi,AmaliTech Ghana Ltd,665,False
+Amos Kojo Dadzie,OP-TKD-0386,amos.dadzie@amalitech.com,Takoradi,AmaliTech Ghana Ltd,386,False
+Papa Kofi Akoto Asante,SC-ACC-0372,papa.asante@amalitech.com,Accra,AmaliTech Ghana Ltd,372,False
+Ebenezer Ahurein,SC-TKD-0393,ebenezer.ahurein@amalitech.com,Takoradi,AmaliTech Ghana Ltd,393,False
+Daniel Asumanin Antwi Sarpong,NSP-SC-24-0745,daniel.sarpong@amalitech.com,Kumasi,AmaliTech Ghana Ltd,745,False
+Daniel Ajayi Lotsu,NSP-SC-24-0747,daniel.lotsu@amalitech.com,Kumasi,AmaliTech Ghana Ltd,747,False
+Maxwell Odoom,SC-ACC-0588,maxwell.odoom@amalitech.com,Accra,AmaliTech Ghana Ltd,588,False
+Theophilus Arku-dadzie,OP-TKD-0234,theophilus.arkudadzie@amalitech.com,Takoradi,AmaliTech Ghana Ltd,457,False
+Sampson Boamah,TC-ACC-0638,sampson.boamah@amalitech.org,Accra,AmaliTech Ghana Ltd,638,True
+Bismark Yamoah,NSP-SC-24-0712,bismark.yamoah@amalitech.com,Accra,AmaliTech Ghana Ltd,712,False
+Theophile Niyobuzima,SC-KGL-626,theophile.niyobuzima@amalitech.com,Kigali,AmaliTech Rwanda Ltd,626,False
+Ayi Yidana Adams,NSP-OP-24-0767,ayi.yidana@amalitech.com,Takoradi,AmaliTech Ghana Ltd,767,False
+Isaac Sarfo-Anokye,SC-ACC-0476,isaac.sarfo-anokye@amalitech.com,Kumasi,AmaliTech Ghana Ltd,476,False
+Sylvester Kafui Kofi Darkey,NSP-SC-24-0714,sylvester.darkey@amalitech.com,Accra,AmaliTech Ghana Ltd,714,False
+Derrick Asamoah,SC-TKD-0432,derrick.asamoah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,432,False
+Gabriel Rockson,SC-ACC-0404,gabriel.rockson@amalitech.com,Accra,AmaliTech Ghana Ltd,404,False
+Ignatus Anim,NSP-SC-24-0759,ignatus.anim@amalitech.com,Kumasi,AmaliTech Ghana Ltd,759,False
+Ramson Odoi,SC-TKD-0190,ramson.odoi@amalitech.com,Accra,AmaliTech Ghana Ltd,332,True
+Emmanuel Odoi Odotei,SC-ACC-0236,emmanuel.odotei@amalitech.com,Accra,AmaliTech Ghana Ltd,466,False
+Paul Asitik,TC-SOS-0142,paul.asitik@amalitech.com,Accra,AmaliTech Ghana Ltd,328,False
+Stanley Yaw Appiah,SC-TKD-0798,stanley.appiah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,798,False
+Nicholas Oppong,NSP-SC-24-0727,nicholas.oppong@amalitech.com,Kumasi,AmaliTech Ghana Ltd,727,False
+Augustine Edem Akato,NSP-SC-24-0741,augustine.akato@amalitech.com,Kumasi,AmaliTech Ghana Ltd,741,False
+Benedicta Nana Fosua Asare,NSP-SC-24-0763,benedicta.asare@amalitech.com,Kumasi,AmaliTech Ghana Ltd,763,False
+Gameli Jireh Anyam,TC-ACC-0648,gameli.anyam@amalitech.com,Accra,AmaliTech Ghana Ltd,648,False
+Nicholas Darko Brown,SC-TKD-0198,nicholas.brown@amalitech.com,Takoradi,AmaliTech Ghana Ltd,340,True
+Nina Gebauer,SC-0000,nina.gebauer@amalitech.com,Cologne,AmaliTech Services GmbH,69,False
+Olive Kaitesi,SC-KGL-0660,olive.kaitesi@amalitech.org,Kigali,AmaliTech Rwanda Ltd,660,True
+Priscilla Naa Lamptey Mills,OP-TKD-0042,priscilla.mills@amalitech.com,Takoradi,AmaliTech Ghana Ltd,25,False
+Jean D'amour Bikorimana,OP-KGL-0684,jean.bikorimana@amalitech.com,Kigali,AmaliTech Rwanda Ltd,684,False
+Daniel Adeabah,SC-TKD-497,daniel.adeabah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,497,False
+Setsofia Kojo Nusetor,NSP-SC-23-0609,setsofia.nusetor@amalitech.com,Takoradi,AmaliTech Ghana Ltd,609,True
+Rose Otukuo Tetteh,NSP-SC-24-0743,rose.tetteh@amalitech.com,Kumasi,AmaliTech Ghana Ltd,743,False
+Lisa-Marie Koomson,TC-TKD-0085,lisa-marie.koomson@amalitech.com,Takoradi,AmaliTech Ghana Ltd,178,False
+Richard Mireku,OP-ACC-0208,richard.mireku@amalitech.org,,AmaliTech Ghana Ltd,346,True
+Joseph Atta Peh,SC-TKD-0409,peh.joseph@amalitech.com,Accra,AmaliTech Ghana Ltd,409,False
+Abdul Manan Suleman,SC-TKD-0633,abdul.suleman@amalitech.com,Takoradi,AmaliTech Ghana Ltd,633,False
+Gideon Mawulede Tettehfio,NSP-SC-24-0750,gideon.tettehfio@amalitech.com,Kumasi,AmaliTech Ghana Ltd,750,False
+Richard Dadzie,SC-TKD-0635,r.dadzie@amalitech.com,Takoradi,AmaliTech Ghana Ltd,635,False
+Paul Mensah Solomon,TC-ACC-0528,paul.mensah@amalitech.com,Accra,AmaliTech Ghana Ltd,528,False
+Sina El-rayes,OP-GER-644,sina.elrayes@amalitech.com,Cologne,AmaliTech Services GmbH,644,False
+Martin Hecker,,martin.hecker@amalitech.com,,AmaliTech Services GmbH,310,False
+Doreen Abisewine Nyaaba,OP-TKD-0212,doreen.nyaaba@amalitech.com,Takoradi,AmaliTech Ghana Ltd,182,False
+Sharon Tracy Phanos,OP-TKD-0012,sharon.phanos@amalitech.com,Takoradi,AmaliTech Ghana Ltd,70,False
+Isaac  Tandoh,TC-ACC-0647,isaac.tandoh@amalitech.com,Accra,AmaliTech Ghana Ltd,647,False
+Francis Coffie,SC-TKD-0203,francis.coffie@amalitech.com,Takoradi,AmaliTech Ghana Ltd,348,True
+Yussif Tahiru,SC-TKD-0219,tahiru.yussif@amalitech.com,Takoradi,AmaliTech Ghana Ltd,361,False
+Hillary Ameyaw Owusu,SC-TKD-0216,hillary.owusu@amalitech.com,Takoradi,AmaliTech Ghana Ltd,358,False
+Ernest Zottor,SC-TKD-0147,ernest.zottor@amalitech.com,Takoradi,AmaliTech Ghana Ltd,269,False
+Esther Akosua Acheampong,NSP-OP-24-0715,esther.acheampong@amalitech.com,Kumasi,AmaliTech Ghana Ltd,715,False
+Andrew Kevin Koomson,SC-TKD-0486,andrew.koomson@amalitech.com,Takoradi,AmaliTech Ghana Ltd,486,False
+Rexton Itsiah,SC-TKD-0410,rexton.itsiah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,410,False
+Charles Palmer-Buckle,OP-TKD-0424,charles.palmer-buckle@amalitech.com,Takoradi,AmaliTech Ghana Ltd,424,False
+Svenja Schauten,OP-GER-0674,svenja.schauten@amalitech.com,Cologne,AmaliTech Services GmbH,674,False
+George Kwabena Asiedu,NSP-SC-23-0566,george.asiedu@amalitech.com,Takoradi,AmaliTech Ghana Ltd,566,True
+Kwabena Yeboah Ansu,SC-TKD-0634,kwabena.ansu@amalitech.com,Takoradi,AmaliTech Ghana Ltd,634,True
+Abdul Suraj,SC-TKD-0020,suraj.abdul@amalitech.com,Kumasi,AmaliTech Ghana Ltd,43,False
+Gabriel Agyeman Duah,NSP-SC-23-0562,gabriel.duah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,562,True
+Stephen Dzakpasu,NSP-SC-23-0612,stephen.dzakpasu@amalitech.com,Accra,AmaliTech Ghana Ltd,612,True
+Isaac Kwadzo Agbobli,SC-TKD-0621,isaac.agbobli@amalitech.com,Takoradi,AmaliTech Ghana Ltd,621,False
+Confiance Kwibuka,SC-KGL-504,kwibuka.confiance@amalitech.com,Kigali,AmaliTech Rwanda Ltd,504,False
+Gabby Ishimwe,SC-KGL-651,gabby.ishimwe@amalitech.com,Kigali,AmaliTech Rwanda Ltd,651,False
+Michael Kwadwo Nyarko Affanyi,SC-TKD-0403,michael.affanyi@amalitech.com,Takoradi,AmaliTech Ghana Ltd,403,False
+Eliab Ishimwe,SC-KGL-630,eliab.ishimwe@amalitech.com,Kigali,AmaliTech Rwanda Ltd,630,False
+Jürgen  Bilowsky,SC-GER-0675,juergen.bilowsky@amalitech.com,Cologne,AmaliTech Services GmbH,675,False
+Ben Sekyondwa,SC-KGL-506,ben.sekyondwa@amalitech.com,Kigali,AmaliTech Rwanda Ltd,506,False
+Jessica Lartiorkor Lartey,SC-ACC-0420,jessica.lartey@amalitech.com,Accra,AmaliTech Ghana Ltd,420,False
+Esther Ofosu,NSP-SC-23-0559,esther.ofosu@amalitech.com,Takoradi,AmaliTech Ghana Ltd,559,True
+Samuel Asare Aboah,NSP-SC-23-0606,samuel.aboah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,606,True
+Benedicta Maayuomle Djangmah,NSP-SC-23-0536,benedicta.djangmah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,536,True
+Emmanuel Mireku Omari,SC-ACC-0551,emmanuel.omari@amalitech.com,Accra,AmaliTech Ghana Ltd,551,False
+Francis Class Peters,TC-TKD-0086,francis.class-peters@amalitech.org,Takoradi,AmaliTech Ghana Ltd,294,False
+Thomas Darko,TC-TKD-0044,thomas.darko@amalitech.com,Takoradi,AmaliTech Ghana Ltd,24,False
+Foster Kojo Luh,SC-ACC-0649,foster.luh@amalitech.com,Accra,AmaliTech Ghana Ltd,649,False
+Charles Kobina Ofosu,OP-ACC-0427,charles.ofosu@amalitech.com,Accra,AmaliTech Ghana Ltd,427,False
+Bernard Teye,SC-TKD-0664,bernard.teye@amalitech.com,Takoradi,AmaliTech Ghana Ltd,664,False
+Kim Lisa Metzger,,kim.metzger@amalitech.com,,AmaliTech Services GmbH,306,False
+William Amo,OP-ACC-0202,william.amo@amalitech.org,Accra,AmaliTech Ghana Ltd,351,True
+Issah Dundason Asiedu,SC-TKD-0379,issah.asiedu@amalitech.com,Takoradi,AmaliTech Ghana Ltd,379,True
+Stephen Junior Adu,NSP-SC-24-0737,stephen.adu@amalitech.com,Kumasi,AmaliTech Ghana Ltd,737,False
+Victor Amevor,TC-SOS-0207,victor.amevor@amalitech.org,,AmaliTech Ghana Ltd,327,True
+Aliu Abdul Manaf,NSP-SC-24-0698,aliu.manaf@amalitech.com,Accra,AmaliTech Ghana Ltd,698,False
+Emmanuel Nkubito,SC-KGL-627,emmanuel.nkubito@amalitech.com,Kigali,AmaliTech Rwanda Ltd,627,False
+Alberta Nana Araba Essaw Korsah,TC-ACC-0646,alberta.korsah@amalitech.com,Accra,AmaliTech Ghana Ltd,646,False
+Nicholas Ocran,SC-TKD-0227,nicholas.ocran@amalitech.com,Takoradi,AmaliTech Ghana Ltd,180,False
+Christopher Owusu Ahenkorah,SC-TKD-0446,christopher.owusu@amalitech.com,Takoradi,AmaliTech Ghana Ltd,446,False
+Michael Sedinam Korku Tenu,OP-ACC-0329,michael.tenu@amalitech.com,Accra,AmaliTech Ghana Ltd,329,False
+Justice Owusu,NSP-SC-24-0760,justice.owusu@amalitech.com,Kumasi,AmaliTech Ghana Ltd,760,False
+Solomon Aboagye,NSP-SC-24-0701,solomon.aboagye@amalitech.com,Accra,AmaliTech Ghana Ltd,701,False
+Jeanne Gentille Umutoniwase,SC-KGL-505,umutoniwase.gentille@amalitech.com,Kigali,AmaliTech Rwanda Ltd,505,False
+Michael Oppong,NSP-SC-24-0702,michael.oppong@amalitech.com,Accra,AmaliTech Ghana Ltd,702,False
+Ferdinald Dogbey,NSP-SC-24-0746,ferdinald.dogbey@amalitech.com,Kumasi,AmaliTech Ghana Ltd,746,False
+Emmanuel Kpendo,SC-TKD-0390,emmanuel.kpendo@amalitech.com,Accra,AmaliTech Ghana Ltd,390,False
+Zachee Ishimwe,SC-KGL-628,zachee.ishimwe@amalitech.com,Kigali,AmaliTech Rwanda Ltd,628,False
+Joseph Teye Tugah,SC-ACC-0685,joseph.tugah@amalitech.com,Accra,AmaliTech Ghana Ltd,685,False
+Emmanuel Dwemoh-Kesseh,SC-ACC-0481,emmanuel.dwemoh-kesseh@amalitech.com,Kumasi,AmaliTech Ghana Ltd,481,False
+John Tekpor Dzikunu,SC-TKD-0224,john.dzikunu@amalitech.com,Takoradi,AmaliTech Ghana Ltd,434,False
+Christabel Maletina Abanga,NSP-OP-23-0540,christabel.abanga@amalitech.org,Takoradi,AmaliTech Ghana Ltd,540,True
+Yves Ishimwe,TC-KGL-0673,yves.ishimwe@amalitech.com,Kigali,AmaliTech Rwanda Ltd,673,True
+Prince Daveis,OP-ACC-0179,prince.daveis@amalitech.com,Accra,AmaliTech Ghana Ltd,315,False
+Ama Andowa Buabeng,SC-TKD-0636,ama.buabeng@amalitech.com,Takoradi,AmaliTech Ghana Ltd,636,False
+Jeffery Arthur Afutu,SC-ACC-0574,jeffery.afutu@amalitech.com,Accra,AmaliTech Ghana Ltd,574,False
+Esther  Carrelle,SC-KGL-507,esther.rangira@amalitech.com,Kigali,AmaliTech Rwanda Ltd,507,True
+Benjamin Cyubahiro,SC-KGL-520,benjamin.cyubahiro@amalitech.com,Kigali,AmaliTech Rwanda Ltd,520,False
+Emmanuella Neizer,SC-TKD-0474,emmanuella.neizer@amalitech.com,Takoradi,AmaliTech Ghana Ltd,474,False
+Enoch Opoku-sarkodie,NSP-SC-23-0556,enoch.opoku-sarkodie@amalitech.com,Takoradi,AmaliTech Ghana Ltd,556,True
+Abigail Sampson,OP-TKD-0526,abigail.sampson@amalitech.com,Takoradi,AmaliTech Ghana Ltd,526,False
+Celestin Niyindagiriye,SC-KGL-514,celestin.niyindagiriye@amalitech.com,Kigali,AmaliTech Rwanda Ltd,514,True
+Andrews Mensah,SC-TKD-0145,andrews.mensah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,235,True
+Charles Adu Nkansah,NSP-SC-24-0742,charles.nkansah@amalitech.com,Kumasi,AmaliTech Ghana Ltd,742,False
+Rosemary Babewe Ayidah,NSP-SC-23-0604,rosemary.ayidah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,604,True
+Gertrude Akosua Yeboah,OP-ACC-0568,gertrude.yeboah@amalitech.com,Accra,AmaliTech Ghana Ltd,568,False
+James Kwofie,NSP-OP-24-0769,james.kwofie@amalitech.com,Takoradi,AmaliTech Ghana Ltd,769,False
+Sarah Kyereboah Owusu,SC-TKD-0391,sarah.owusu@amalitech.com,Takoradi,AmaliTech Ghana Ltd,391,False
+Hamdani Alhassan Gandi,NSP-SC-24-0695,hamdani.gandi@amalitech.com,Accra,AmaliTech Ghana Ltd,695,False
+Eric Tetteh,NSP-OP-24-0768,eric.tetteh@amalitech.com,Takoradi,AmaliTech Ghana Ltd,768,False
+Richard Korankye Osei,NSP-OP-24-0692,richard.korankye@amalitech.com,Accra,AmaliTech Ghana Ltd,692,False
+Augustine Normanyo,SC-TKD-0473,augustine.normanyo@amalitech.com,Takoradi,AmaliTech Ghana Ltd,473,False
+Evans Elabo,NSP-SC-24-0729,evans.elabo@amalitech.com,Kumasi,AmaliTech Ghana Ltd,729,False
+Abdul Manaf Sulley,SC-TKD-0029,abdul.sulley@amalitech.com,Takoradi,AmaliTech Ghana Ltd,54,False
+Agyenim Boateng Obeng,SC-TKD-0032,obeng.boateng@amalitech.com,Takoradi,AmaliTech Ghana Ltd,58,False
+Emmanuella Seyram Zah,SC-ACC-0555,emmanuella.zah@amalitech.com,Accra,AmaliTech Ghana Ltd,555,False
+Faith Ayeh Mensah,SC-TKD-0560,faith.mensah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,560,False
+Justice Abban,SC-TKD-0580,justice.abban@amalitech.com,Takoradi,AmaliTech Ghana Ltd,580,False
+Solomon Asiedu,SC-TKD-0185,solomon.asiedu@amalitech.com,Takoradi,AmaliTech Ghana Ltd,324,False
+Justice Uzoma Ajah,SC-TKD-0117,justice.ajah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,215,False
+Francis Owusu Bota,SC-TKD-0055,francis.bota@amalitech.com,Accra,AmaliTech Ghana Ltd,153,False
+Bertina Ayuure,SC-TKD-0376,bertina.ayuure@amalitech.com,Takoradi,AmaliTech Ghana Ltd,376,False
+Godfred Harrison Amoah,SC-TKD-0030,harrison.godfred@amalitech.com,Accra,AmaliTech Ghana Ltd,55,False
+Ebenezer Ansere,SC-TKD-0181,ebenezer.ansere@amalitech.com,Takoradi,AmaliTech Ghana Ltd,277,False
+Albert Hughes,SC-TKD-0429,albert.hughes@amalitech.com,Takoradi,AmaliTech Ghana Ltd,429,True
+Charles Appah Biney,SC-ACC-492,charles.biney@amalitech.com,Accra,AmaliTech Ghana Ltd,492,False
+Justice Nana Ellis,SC-TKD-0239,justice.ellis@amalitech.com,Takoradi,AmaliTech Ghana Ltd,463,False
+Sylvester Baffour Kyei,NSP-SC-24-0739,sylvester.kyei@amalitech.com,Kumasi,AmaliTech Ghana Ltd,739,False
+Benedict Yaw Arhin,SC-TKD-0368,benedict.arhin@amalitech.com,Accra,AmaliTech Ghana Ltd,368,False
+Samuel Junior Arthur,SC-TKD-0384,samuel.arthur@amalitech.com,Kumasi,AmaliTech Ghana Ltd,384,False
+Wonderful Joel Owusu-ansah,SC-ACC-0389,wonderful.owusu-ansah@amalitech.com,Takoradi,AmaliTech Ghana Ltd,389,False
+Emmanuel Twum Osafo,SC-TKD-0074,emmanuel.osafo@amalitech.com,Takoradi,AmaliTech Ghana Ltd,152,False
+Emmanuel Larbi,SC-ACC-0405,emmanuel.larbi@amalitech.com,Accra,AmaliTech Ghana Ltd,405,False
+Asiedu Saah,SC-TKD-0235,saah.asiedu@amalitech.com,Takoradi,AmaliTech Ghana Ltd,460,False
+Emmanuel Hammond,SC-TKD-0121,emmanuel.hammond@amalitech.com,Takoradi,AmaliTech Ghana Ltd,203,True
+Jimmy Kodwo Essel,NSP-SC-24-0731,jimmy.essel@amalitech.com,Kumasi,AmaliTech Ghana Ltd,731,False
+Nnyabe Solomon Chamamme,NSP-SC-24-0735,nnyabe.chamamme@amalitech.com,Kumasi,AmaliTech Ghana Ltd,735,False
+Samuel Gyabeng Asante,NSP-SC-24-0734,samuel.asante@amalitech.com,Kumasi,AmaliTech Ghana Ltd,734,False
+Ngomde Kamdaou,SC-KGL-522,cadet.kamdaou@amalitech.com,Kigali,AmaliTech Rwanda Ltd,522,False
+Aime Rukundo,SC-KGL-511,aime.rukundo@amalitech.com,Kigali,AmaliTech Rwanda Ltd,511,False
+Millicent Konadu Opoku,SC-TKD-0398,millicent.opoku@amalitech.com,Takoradi,AmaliTech Ghana Ltd,398,False
+Eliezer Kwasi Gyan,SC-TKD-0205,eliezer.gyan@amalitech.com,Kumasi,AmaliTech Ghana Ltd,347,False
+Jacqueline Abban Botchway,SC-TKD-0156,jacqueline.botchway@amalitech.com,Takoradi,AmaliTech Ghana Ltd,246,False
+Christabel Amorkor Quaye,SC-TKD-0400,christabel.quaye@amalitech.com,Takoradi,AmaliTech Ghana Ltd,400,False
+Phinehas Anteh,SC-ACC-0619,phinehas.anteh@amalitech.com,Accra,AmaliTech Ghana Ltd,619,False
+Caleb Nana Kwesi Osam,SC-ACC-0392,caleb.osam@amalitech.com,Accra,AmaliTech Ghana Ltd,392,False
+Ibrahim Mankaamah Osuman,SC-TKD-0172,ibrahim.osuman@amalitech.com,Kumasi,AmaliTech Ghana Ltd,243,False
+Daniel Abakah,SC-ACC-0687,daniel.abakah@amalitech.com,Accra,AmaliTech Ghana Ltd,687,False
+Aminu Mohammed Twumasi,TC-KSI-0639,aminu.twumasi@amalitech.com,Kumasi,AmaliTech Ghana Ltd,639,False
+Brempong Appiah Dankwah,NSP-SC-24-0749,brempong.dankwah@amalitech.com,Kumasi,AmaliTech Ghana Ltd,749,False
+Douglas Danso,SC-TKD-0412,douglas.danso@amalitech.com,Takoradi,AmaliTech Ghana Ltd,412,False
+Kwadjo Boadi-Mantey,NSP-SC-24-0762,kwadjo.boadi-mantey@amalitech.com,Kumasi,AmaliTech Ghana Ltd,762,False
+Kendrick Kyekyeku Oppong,NSP-SC-24-0758,kendrick.oppong@amalitech.com,Kumasi,AmaliTech Ghana Ltd,758,False
+Clara Borlu,SC-TKD-0542,clara.borlu@amalitech.com,Takoradi,AmaliTech Ghana Ltd,542,False
+Richard Derrick Mcadams,SC-TKD-0603,richard.mcadams@amalitech.com,Takoradi,AmaliTech Ghana Ltd,603,False
