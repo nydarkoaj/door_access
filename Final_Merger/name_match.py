@@ -106,8 +106,8 @@ def process_and_merge(remote_df: pd.DataFrame, zk_df: pd.DataFrame, emp_df: pd.D
                 "card_id": str(card_id) if card_id is not None else "0",
                 "name": str(emp_row.get("name") or "None"),
                 "office": safe_str(matched_remote.get("block")),
-                "remote_day_one": safe_str(matched_remote.get("remote_day_one")),
-                "remote_day_two": safe_str(matched_remote.get("remote_day_two")),
+                "remote_day_1": safe_str(matched_remote.get("remote_day_one")),
+                "remote_day_2": safe_str(matched_remote.get("remote_day_two")),
                 "location": safe_str(emp_row.get("office")),
             }
 
@@ -136,7 +136,7 @@ def main():
     try:
         employee_data = load_data("Final_Merger/data/employee_data.csv", "csv")
         remote_days_data = load_data("Final_Merger/data/remote_days.csv", "csv")
-        zkaccess_data = load_data("Final_Merger/zkaccess_data.xlsx", "xlsx")
+        zkaccess_data = load_data("Final_Merger/data/zkaccess_data.xlsx", "xlsx")
 
         result_df = process_and_merge(remote_days_data, zkaccess_data, employee_data)
         logging.info(f"Final merged data contains {len(result_df)} records.")
