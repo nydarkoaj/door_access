@@ -9,3 +9,4 @@ fastparquet
 pygetwindow
 pyautogui
 pyperclip
+Office365-REST-Python-Client
