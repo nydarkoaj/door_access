@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Paths and constants
-ZK_ACCESS_PATH = "C:\\Program Files (x86)\\ZKTeco\\ZKAccess3.5\\Access.exe"
+ZK_ACCESS_PATH = "C:\\ZKTeco\\ZKAccess3.5\\Access.exe"
 
 # Check if Caps Lock is ON
 if ctypes.windll.user32.GetKeyState(0x14) & 1:
@@ -119,22 +119,30 @@ def maximize_zkaccess_window():
         logger.error("ZKAcess window not found.")
         return False
 
+
 # Step 1: Automate ZKAcess Log Sync
 def export_from_zk_access():
     """Open ZKAcess, login, and sync attendance logs to database."""
+    if resize_and_center_window_by_partial_class("#32770", 127, 137, 741, 387):
+        time.sleep(2)
+        pyautogui.click(851,402)
+        time.sleep(3)
+        # return # Exit if the ZKAcess login window is not found
+    
 
     # Resize and center the login window by class name
     if not resize_and_center_window_by_partial_class("WindowsForms10.Window.8.app", 400, 300, 760, 366):
         return  # Exit if the ZKAcess login window is not found
 
     # Automate login (adjust coordinates as needed)
-    pyautogui.click(930, 464)
-    pyautogui.doubleClick(915, 461)  # Username field
-    pyautogui.write(USERNAME)
-    pyautogui.doubleClick(934, 505)  # Password field
-    pyautogui.write(PASSWORD)
+    # pyautogui.click(930, 464)
+    # pyautogui.doubleClick(915, 461)  # Username field
+    # pyautogui.write(USERNAME)
+    # pyautogui.doubleClick(934, 505)  # Password field
+    # pyautogui.write(PASSWORD)
     pyautogui.click(952, 599)  # Login button
     time.sleep(5)  # Wait to log in
+
 
 
     if not maximize_zkaccess_window():
