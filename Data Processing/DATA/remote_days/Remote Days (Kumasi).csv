@@ -1,0 +1,82 @@
+employee_id,card_id,name,office,remote_day_1,remote_day_2,location
+43,19,abdul suraj,ADIEMBRA,Thursday,Friday,Kumasi
+472,22,abdulai awal,EFFIAKUMA,Thursday,Friday,Kumasi
+756,126,abudu samadu,ADIEMBRA,,,Kumasi
+421,78,abulfail ahmed rufai,SEKONDI,Wednesday,Thursday,Kumasi
+342,14,alalinga mubarik,APOWA,Thursday,Friday,Kumasi
+46,194,ama brobbey,EFFIAKUMA,,,Kumasi
+728,134,andrew marfo,EFFIAKUMA,,,Kumasi
+426,71,asumah yakubu,SEKONDI,Thursday,Friday,Kumasi
+741,129,augustine edem akato,ADIEMBRA,,,Kumasi
+371,153,augustine kyei,EFFIAKUMA,Thursday,Friday,Kumasi
+763,133,benedicta asare,APOWA,,,Kumasi
+749,130,brempong appiah dankwah,EFFIAKUMA,,,Kumasi
+764,132,bright kumedzro,SEKONDI,,,Kumasi
+742,131,charles adu nkansah,EFFIAKUMA,,,Kumasi
+747,113,daniel ajayi lotsu,EFFIAKUMA,,,Kumasi
+745,128,daniel asumanin antwi sarpong,APOWA,,,Kumasi
+496,20,daniel kusi boateng,ADIEMBRA,Thursday,Friday,Kumasi
+755,135,daniel kwadwo sah,EFFIAKUMA,,,Kumasi
+807,50,dennis owusu,SEKONDI,Wednesday,Friday,Kumasi
+487,68,divine duah,EFFIAKUMA,Thursday,Friday,Kumasi
+748,127,ebenezer antwi,EFFIAKUMA,,,Kumasi
+106,26,ebenezer nyarko,ADIEMBRA,Monday,Tuesday,Kumasi
+550,150,edward hanson,EFFIAKUMA,Wednesday,Thursday,Kumasi
+761,114,edward obeng dankwah,ADIEMBRA,,,Kumasi
+347,95,eliezer kwasi gyan,EFFIAKUMA,Thursday,Friday,Kumasi
+808,45,elisha samuel gyamfi,EFFIAKUMA,Wednesday,Friday,Kumasi
+481,13,emmanuel dwemoh-kesseh,EFFIAKUMA,Wednesday,Friday,Kumasi
+811,51,eric obeng,ADIEMBRA,Wednesday,Friday,Kumasi
+269,69,ernest zottor,SEKONDI,Thursday,Friday,Kumasi
+738,106,essel apusiga abraham,EFFIAKUMA,,,Kumasi
+718,108,esther lardze odzao,EFFIAKUMA,,,Kumasi
+729,115,evans elabo,APOWA,,,Kumasi
+746,110,ferdinald dogbey,EFFIAKUMA,,,Kumasi
+462,10,fredrick yalley,EFFIAKUMA,Monday,Tuesday,Kumasi
+730,107,gabriel mawule sakyi,ADIEMBRA,,,Kumasi
+337,12,gideon nti boateng,SEKONDI,Monday,Tuesday,Kumasi
+750,112,gideon mawulede tettehfio,ADIEMBRA,,,Kumasi
+155,206,gloria abedi,EFFIAKUMA,Wednesday,Thursday,Kumasi
+665,23,gloria tani tampuri,APOWA,Wednesday,Thursday,Kumasi
+752,111,halic mahamudu,EFFIAKUMA,,,Kumasi
+753,104,henry duah agyemang,EFFIAKUMA,,,Kumasi
+243,15,ibrahim mankaamah osuman,SEKONDI,Thursday,Friday,Kumasi
+759,105,ignatus anim,EFFIAKUMA,,,Kumasi
+812,63,jenef-great alemonai,SEKONDI,Monday,Tuesday,Kumasi
+731,103,jimmy essel,SEKONDI,,,Kumasi
+409,84,joseph atta peh,APOWA,Monday,Tuesday,Kumasi
+722,99,julius sowah adjetey,EFFIAKUMA,,,Kumasi
+760,62,justice owusu,EFFIAKUMA,,,Kumasi
+758,102,kendrick kyekyeku oppong,SEKONDI,,,Kumasi
+582,148,kingsley amankwah,SEKONDI,Wednesday,Friday,Kumasi
+724,97,kingsley botchway,SEKONDI,,,Kumasi
+552,146,kwabena asabere,EFFIAKUMA,Monday,Tuesday,Kumasi
+762,98,kwadjo boadi-mantey,EFFIAKUMA,,,Kumasi
+733,100,kwasi sakyi baidoo,SEKONDI,,,Kumasi
+744,116,listowel adolwin moro,EFFIAKUMA,,,Kumasi
+633,,manan,EFFIAKUMA,Monday,Tuesday,Kumasi
+751,119,mark-hill ampomah,SEKONDI,,,Kumasi
+726,117,michael agyeman darko,ADIEMBRA,,,Kumasi
+732,118,moses winbood ayandau,EFFIAKUMA,,,Kumasi
+727,121,nicholas oppong,APOWA,,,Kumasi
+806,52,nii nartey tetteh-charway,ADIEMBRA,Thursday,Friday,Kumasi
+735,122,nnyabe chamamme,APOWA,,,Kumasi
+304,27,paul kofi osei,ADIEMBRA,Thursday,Friday,Kumasi
+736,123,prince kwabena kyeremeh,EFFIAKUMA,,,Kumasi
+810,44,rhoda arthur,SEKONDI,Thursday,Friday,Kumasi
+743,124,rose otukuo tetteh,ADIEMBRA,,,Kumasi
+172,18,salifu zeba,APOWA,Monday,Tuesday,Kumasi
+814,47,samuel amo,SEKONDI,Monday,Tuesday,Kumasi
+817,41,samuel danquah,ADIEMBRA,Monday,Tuesday,Kumasi
+734,140,samuel gyabeng asante,APOWA,,,Kumasi
+384,67,samuel junior arthur,SEKONDI,Thursday,Friday,Kumasi
+809,57,sandra kumi,EFFIAKUMA,Monday,Tuesday,Kumasi
+430,152,sefakor edwina dodor,ADIEMBRA,Wednesday,Friday,Kumasi
+325,149,solomon sarfo,ADIEMBRA,Wednesday,Friday,Kumasi
+737,137,stephen adu,EFFIAKUMA,,,Kumasi
+,205,sudais hamid,APOWA,,,Kumasi
+739,138,sylvester baffour kyei,EFFIAKUMA,,,Kumasi
+326,32,tuffour boateng,ADIEMBRA,Monday,Tuesday,Kumasi
+757,142,zaidan ali usman,SEKONDI,,,Kumasi
+740,141,zanitta essel quaicoe,APOWA,,,Kumasi
+,202,grace agyekum,,,,Kumasi

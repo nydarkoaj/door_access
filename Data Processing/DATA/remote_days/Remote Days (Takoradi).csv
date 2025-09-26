@@ -1,0 +1,168 @@
+employee_id,card_id,name,floor,remote_day_1,remote_day_2,location
+33,165,Abaidoo Prince,Knit,Monday,Tuesday,Takoradi
+54,117,Abdul Manaf Sulley,Mainz,Thursday,Friday,Takoradi
+442,178,Abdul-Razak Hussein,Main Hall,Monday,Tuesday,Takoradi
+415,136,Abigail Nyameyie Arko,Main Hall,Monday,Tuesday,Takoradi
+526,276,Abigail Sampson,Other Departments,,,Takoradi
+50,135,Adolf Menano,Main Hall,Thursday,Friday,Takoradi
+58,18,Agyenim Boateng Obeng,Mainz,Thursday,Friday,Takoradi
+534,382,Alice Fremah Boakye,Main Hall,Monday,Tuesday,Takoradi
+636,229,Ama Andowa Buabeng,Main Hall,Wednesday,Friday,Takoradi
+46,84,Ama Gyaa Brobbey,Mainz,Thursday,Friday,Takoradi
+312,199,Anita Nana Ama Agyepong,Other Departments,,,Takoradi
+60,132,Anita Twumasi Ankrah,Knit,Wednesday,Friday,Takoradi
+438,302,Ann Opare-Akonor,Other Departments,,,Takoradi
+460,115,Asiedu Saah,Main Hall,Monday,Tuesday,Takoradi
+473,137,Augustine Normanyo,Main Hall,Monday,Tuesday,Takoradi
+355,110,Augustine Smith,Knit,Thursday,Friday,Takoradi
+65,15,Ayawavi Diane Adeline Missewou,Main Hall,Monday,Tuesday,Takoradi
+535,391,Baffour Kofi Gyawu,Knit,Wednesday,Friday,Takoradi
+40,162,Benjamin Arthur,Knit,Thursday,Friday,Takoradi
+67,48,Benjamin Eshun,Knit,Thursday,Friday,Takoradi
+383,37,Benjamin Nyankson,Main Hall,Wednesday,Friday,Takoradi
+335,221,Bentil Okyere Boadu,Dortmund,Monday,Tuesday,Takoradi
+664,310,Bernard Teye,Knit,Thursday,Friday,Takoradi
+771,396,Bernice Bonney,Other Departments,,,Takoradi
+376,152,Bertina Ayuure,Main Hall,Monday,Tuesday,Takoradi
+374,4,Bilal Maltiti Abubakari,Knit,Wednesday,Friday,Takoradi
+439,13,Bismark Gyau,Main Hall,Thursday,Friday,Takoradi
+537,386,Bismark Kadogbe,Knit,Monday,Tuesday,Takoradi
+538,326,Bless Ahadjie,Knit,Thursday,Friday,Takoradi
+539,327,Blessing Esi Avornyoh,Dortmund,Monday,Tuesday,Takoradi
+407,179,Bliss Armah-Nwanwah,Stuttgart,Wednesday,Friday,Takoradi
+345,73,Charles Agyapong,Other Departments,,,Takoradi
+101,67,Charles Damascus Togah,Knit,Monday,Tuesday,Takoradi
+37,402,Charles Fuakye-Akyempim,Mainz,Wednesday,Friday,Takoradi
+424,52,Charles Palmer-Buckle,Other Departments,Thursday,Friday,Takoradi
+400,36,Christabel Amorkor Quaye,Main Hall,Thursday,Friday,Takoradi
+618,23,Christopher Kweku Asamoah Angoe,Dortmund,Thursday,Friday,Takoradi
+446,259,Christopher Owusu Ahenkorah,Dortmund,Wednesday,Friday,Takoradi
+542,385,Clara Borlu,Stuttgart,Monday,Tuesday,Takoradi
+543,392,Clement Owireku-Bogyah,Main Hall,Thursday,Friday,Takoradi
+544,384,Clifford Agyabeng Kwakye,Knit,Monday,Tuesday,Takoradi
+497,253,Daniel Adeabah,Mainz,Thursday,Friday,Takoradi
+546,314,Daniel Forson,Knit,Wednesday,Friday,Takoradi
+432,226,Derrick Asamoah,Main Hall,Monday,Tuesday,Takoradi
+548,377,Dilys Opoku-Donkor,Knit,Monday,Tuesday,Takoradi
+182,46,Doreen Abisewine Nyaaba,Other Departments,Wednesday,Friday,Takoradi
+549,317,Doris Addai Gyebi,Mainz,Thursday,Friday,Takoradi
+412,182,Douglas Danso,Stuttgart,Monday,Tuesday,Takoradi
+393,59,Ebenezer Ahurein,Stuttgart,Wednesday,Friday,Takoradi
+277,20,Ebenezer Ansere,Mainz,Monday,Tuesday,Takoradi
+377,206,Ebenezer Buabeng,Main Hall,Wednesday,Friday,Takoradi
+471,138,Ebenezer Jojo Mensah,Main Hall,Wednesday,Friday,Takoradi
+196,112,Elliot Adinortey Agbettor,Mainz,Wednesday,Friday,Takoradi
+554,334,Emmanuel Adufo,Knit,Monday,Tuesday,Takoradi
+171,64,Emmanuel Ayirebi,Main Hall,Monday,Tuesday,Takoradi
+309,171,Emmanuel Bortsie,Other Departments,,,Takoradi
+264,76,Emmanuel Darkwah Ampofo,Main Hall,Thursday,Friday,Takoradi
+452,70,Emmanuel Eshun,Main Hall,Thursday,Friday,Takoradi
+453,66,Emmanuel Omensu Mensah,Dortmund,Monday,Tuesday,Takoradi
+152,154,Emmanuel Twum Osafo,Main Hall,Wednesday,Friday,Takoradi
+474,142,Emmanuella Neizer,Main Hall,Thursday,Friday,Takoradi
+461,116,Enoch Boison,Main Hall,Thursday,Friday,Takoradi
+557,321,Enyonam Abla Kumador,Main Hall,Monday,Tuesday,Takoradi
+80,69,Eric Nana Kpabi,Knit,Wednesday,Friday,Takoradi
+768,401,Eric Tetteh,Other Departments,,,Takoradi
+189,17,Ernest Brayce,Knit,Monday,Tuesday,Takoradi
+369,68,Ernest Owusu Darko,Dortmund,Wednesday,Friday,Takoradi
+308,111,Esther Nkrumah Amoah,Other Departments,Tuesday,Wednesday,Takoradi
+331,86,Eugene Nana Yaw Acheampong,Other Departments,Wednesday,Friday,Takoradi
+770,399,Eva Antwi,Other Departments,,,Takoradi
+443,258,Evans Mbongo,Dortmund,Wednesday,Friday,Takoradi
+414,140,Faisal Issaka,Mainz,Wednesday,Friday,Takoradi
+560,318,Faith Ayeh Mensah,Dortmund,Wednesday,Friday,Takoradi
+185,88,Farida Baberin-Yor Beacher,Other Departments,,,Takoradi
+382,12,Felix Osei Danso,Stuttgart,Monday,Tuesday,Takoradi
+367,57,Francine-Maria Aweziga Kaba,Main Hall,Thursday,Friday,Takoradi
+231,26,George Amoasifynn,Other Departments,,,Takoradi
+567,387,Georgina Badu Asare,Dortmund,Thursday,Friday,Takoradi
+419,261,Gloria Abedi Gyemfa,Main Hall,Wednesday,Friday,Takoradi
+62,100,Godsway Kojo Nyatuame,Main Hall,Thursday,Friday,Takoradi
+290,33,Godwin Kojo Edor,Other Departments,Monday,Friday,Takoradi
+493,205,Haruna Ibrahim Konlan,Dortmund,Thursday,Friday,Takoradi
+416,14,Hussein Amadu,Main Hall,Thursday,Friday,Takoradi
+454,175,Isaac Ampomah,Dortmund,Monday,Tuesday,Takoradi
+621,290,Isaac Kwadzo Agbobli,Dortmund,Thursday,Friday,Takoradi
+207,35,Israel Kwawu,Mainz,Thursday,Friday,Takoradi
+570,381,Jacob Sabbath Adiaba,Knit,Wednesday,Friday,Takoradi
+571,393,Jacobs Somuah Agyei,Main Hall,Wednesday,Friday,Takoradi
+246,168,Jacqueline Abban Botchway,Main Hall,Monday,Tuesday,Takoradi
+769,400,James Kwofie,Other Departments,,,Takoradi
+198,105,Jedidiah Eyiah-King,Stuttgart,Thursday,Friday,Takoradi
+576,378,Jerome Awonniseba Akumasi,Knit,Thursday,Friday,Takoradi
+448,256,Joel Kobby Bamfo,Stuttgart,Monday,Tuesday,Takoradi
+445,257,Joel Paa-Kow Amuasi,Stuttgart,Thursday,Friday,Takoradi
+434,16,John Tekpor Dzikunu,Stuttgart,Monday,Tuesday,Takoradi
+378,200,Joseph Kobina Sam,Main Hall,Monday,Tuesday,Takoradi
+579,379,Joseph Nkuah Kwarteng,Knit,Thursday,Friday,Takoradi
+449,55,Jude Edem Nyahe,Dortmund,Wednesday,Friday,Takoradi
+475,126,Jude Kwofie,Main Hall,Monday,Tuesday,Takoradi
+292,41,Judith Appartaim,Other Departments,,,Takoradi
+580,320,Justice Abban,Mainz,Thursday,Friday,Takoradi
+215,106,Justice Ajah,Knit,Monday,Tuesday,Takoradi
+463,119,Justice Nana Ellis,Dortmund,Wednesday,Friday,Takoradi
+581,368,Kenneth Atta Oppong,Main Hall,Thursday,Friday,Takoradi
+772,397,Keziah Lamptey,Other Departments,,,Takoradi
+350,129,Koffi Andrew Ndri,Mainz,Monday,Tuesday,Takoradi
+488,195,Kweku Gyimah-Turkson,Mainz,Monday,Tuesday,Takoradi
+47,85,Lewis Dzacka,Main Hall,Monday,Tuesday,Takoradi
+273,134,Linda Kumah,Main Hall,Wednesday,Friday,Takoradi
+585,313,Linda Pomaa Boateng,Stuttgart,Thursday,Friday,Takoradi
+45,31,Lois Ewuraama Young,Other Departments,Thursday,Friday,Takoradi
+435,49,Manasseh Aikins Sarfo,Main Hall,Thursday,Friday,Takoradi
+159,114,Maxwell Kwesi Ehiawey,Main Hall,Wednesday,Friday,Takoradi
+422,50,Methuselah Nwodobeh,Stuttgart,Monday,Tuesday,Takoradi
+216,25,Michael Acheampong,Dortmund,Wednesday,Friday,Takoradi
+349,243,Michael Idun Hagan,Stuttgart,Monday,Tuesday,Takoradi
+403,183,Michael Kwadwo Nyarko Affanyi,Mainz,Wednesday,Friday,Takoradi
+444,301,Michael Nana Kwame Akuetteh,Stuttgart,Thursday,Friday,Takoradi
+249,101,Mildred Akpene Aku Vittor,Main Hall,,,Takoradi
+398,180,Millicent Konadu Opoku,Main Hall,Thursday,Friday,Takoradi
+217,130,Moses Basing,Dortmund,Thursday,Friday,Takoradi
+180,145,Nicholas Ocran,Stuttgart,Monday,Tuesday,Takoradi
+160,184,Obed Ampah,Main Hall,Monday,Tuesday,Takoradi
+623,291,Paa Kwesi Adu Yankah,Main Hall,Thursday,Friday,Takoradi
+805,415,Paa Kwesi Ephraim,Dortmund,,,Takoradi
+161,133,Patrick Markin-Yankah,Dortmund,Wednesday,Friday,Takoradi
+599,281,Philip Odzor,Other Departments,,,Takoradi
+322,60,Phinehas Sersah,Knit,Wednesday,Friday,Takoradi
+396,39,Pius Prince Oduro,Knit,Wednesday,Friday,Takoradi
+819,427,Prince Dean Agbodjan,Stuttgart,,,Takoradi
+450,29,Prince Twumasi Asamoah,Stuttgart,Monday,Tuesday,Takoradi
+25,32,Priscilla Naa Lamptey Mills,Other Departments,Wednesday,Thursday,Takoradi
+61,159,Raphael Kyere Adonteng,Stuttgart,Thursday,Friday,Takoradi
+15,74,Raphael Nene Kabutey Ocansey,Other Departments,Wednesday,Thursday,Takoradi
+260,89,Rebecca Agyei,Main Hall,Wednesday,Friday,Takoradi
+323,207,Rexford Kofi Koomson,Dortmund,Wednesday,Friday,Takoradi
+410,3,Rexton Itsiah,Mainz,Thursday,Friday,Takoradi
+624,289,Richard Bouaro,Dortmund,Thursday,Friday,Takoradi
+635,296,Richard Dadzie,Dortmund,Monday,Tuesday,Takoradi
+603,329,Richard Derrick McAdams,Knit,Monday,Tuesday,Takoradi
+10,34,Richard H. A. Botchway,Other Departments,Wednesday,Thursday,Takoradi
+464,120,Robert Elinam Hlovor,Main Hall,Wednesday,Friday,Takoradi
+360,177,Robert Sam,Stuttgart,Wednesday,Friday,Takoradi
+199,127,Robertson Asare Otoo,Main Hall,Wednesday,Friday,Takoradi
+447,65,Ruth Anandzi Armoo,Other Departments,,,Takoradi
+428,307,Sadia Ibrahim Abugbilla,Other Departments,Wednesday,Friday,Takoradi
+605,380,Sam Ackah,Dortmund,Wednesday,Friday,Takoradi
+388,188,Samuel Enoh,Main Hall,Monday,Tuesday,Takoradi
+413,45,Samuel Nana Baffour Asare,Main Hall,Thursday,Friday,Takoradi
+607,322,Samuel Ohene Larbi,Mainz,Monday,Tuesday,Takoradi
+391,62,Sarah Kyereboah Owusu,Stuttgart,Wednesday,Friday,Takoradi
+17,96,Sarah Sackeybea Addo,Other Departments,Wednesday,Friday,Takoradi
+313,109,Segun Wale Ajomo,Main Hall,Monday,Friday,Takoradi
+53,19,Shamsu Deen Ahmed,Knit,Thursday,Friday,Takoradi
+610,272,Sharon Betty Koomson,Knit,Thursday,Friday,Takoradi
+70,71,Sharon Tracy Phanos,Other Departments,Monday,Friday,Takoradi
+324,209,Solomon Asiedu,Knit,Thursday,Friday,Takoradi
+798,405,Stanley Yaw Appiah,Main Hall,,,Takoradi
+465,121,Stephen Paakow Aihoon,Stuttgart,Wednesday,Friday,Takoradi
+457,94,Theophilus Arku-Dadzie,Other Departments,,,Takoradi
+451,104,Theophilus Kofi Gordon,Main Hall,Wednesday,Friday,Takoradi
+613,390,Timothy Hobbs Kumah,Knit,Monday,Tuesday,Takoradi
+255,10,Timothy Yeboah,Main Hall,Thursday,Friday,Takoradi
+815,416,Titus Fiifi Appiah,Dortmund,,,Takoradi
+615,273,Veronica Abena Numekevor,Other Departments,,,Takoradi
+119,113,Vincent Andoh Sarsah,Stuttgart,Monday,Tuesday,Takoradi
+361,79,Yussif Tahiru,Main Hall,Wednesday,Friday,Takoradi
