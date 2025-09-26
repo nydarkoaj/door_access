@@ -14,15 +14,36 @@ import sys
 
 load_dotenv()
 
-#========== AWS S3 CONFIGURATION ==========
-s3_bucket = os.getenv("BUCKET_NAME")
+s3_bucket_1 = os.getenv("BUCKET_NAME_1")
+s3_client_1 = boto3.client(
+    "s3",
+    aws_access_key_id=os.getenv("AWS_ACCESS_KEY_ID_1"),
+    aws_secret_access_key=os.getenv("AWS_SECRET_ACCESS_KEY_1"),
+    region_name=os.getenv("AWS_REGION_1")
+)
+
+# Account 2
+s3_bucket_2 = os.getenv("BUCKET_NAME_2")
+s3_client_2 = boto3.client(
+    "s3",
+    aws_access_key_id=os.getenv("AWS_ACCESS_KEY_ID_2"),
+    aws_secret_access_key=os.getenv("AWS_SECRET_ACCESS_KEY_2"),
+    region_name=os.getenv("AWS_REGION_2")
+)
 s3_prefix = "raw/door-access-data/Kumasi"
-access_key = os.getenv("AWS_ACCESS_KEY_ID")
-secret_key = os.getenv("AWS_SECRET_ACCESS_KEY")
-region = os.getenv("AWS_REGION")
-s3_client = boto3.client('s3', aws_access_key_id=access_key, aws_secret_access_key=secret_key, region_name=region)
 s3_log_folder_path = "raw/door-access-data/logs/"
 json_state_file = "state_file.json"
+
+
+# #========== AWS S3 CONFIGURATION ==========
+# # s3_bucket = os.getenv("BUCKET_NAME")
+# s3_prefix = "raw/door-access-data/Kumasi"
+# # access_key = os.getenv("AWS_ACCESS_KEY_ID")
+# # secret_key = os.getenv("AWS_SECRET_ACCESS_KEY")
+# # region = os.getenv("AWS_REGION")
+# # s3_client = boto3.client('s3', aws_access_key_id=access_key, aws_secret_access_key=secret_key, region_name=region)
+# s3_log_folder_path = "raw/door-access-data/logs/"
+# json_state_file = "state_file.json"
 
 
 # ========== CONFIGURATION ==========
@@ -216,23 +237,51 @@ def group_by_year_month_1(df: pd.DataFrame,year_month: str) -> Dict[str, pd.Data
     grouped = filtered_df.groupby('year_month')
     return {name: group.drop(columns='year_month') for name, group in grouped}
 
+
 def upload_to_s3(dfs: Dict[str, pd.DataFrame]) -> None:
-    """Upload the DataFrame to S3 as CSV files."""
+    """Upload the DataFrame to both S3 buckets as CSV files."""
     for name, df in dfs.items():
         if not df.empty:
-            # df.copy = df.drop(columns='year_month', inplace=True)
-            # replace hypehns with underscores in the name
-            name = name.replace('-', '_')
+            name = name.replace("-", "_")
             year = name[:4]
-            # print sample path in s3
-            logger.info(f"Uploading {name} to S3 at {s3_bucket}/{s3_prefix}/year={year}/kumasi_attendance_{name}.csv")
-            s3_client.put_object(
-                Bucket=s3_bucket,
-                Key=f"{s3_prefix}/year={year}/kumasi_attendance_{name}.csv",
+            file_key = f"{s3_prefix}/year={year}/kumasi_attendance_{name}.csv"
+
+            # Upload to first bucket
+            logger.info(f"Uploading {name} to {s3_bucket_1}/{file_key}")
+            s3_client_1.put_object(
+                Bucket=s3_bucket_1,
+                Key=file_key,
                 Body=df.to_csv(index=False)
             )
-        else:    
+
+            # Upload to second bucket
+            logger.info(f"Uploading {name} to {s3_bucket_2}/{file_key}")
+            s3_client_2.put_object(
+                Bucket=s3_bucket_2,
+                Key=file_key,
+                Body=df.to_csv(index=False)
+            )
+
+        else:
             logger.warning(f"DataFrame for {name} is empty. Skipping upload.")
+
+# def upload_to_s3(dfs: Dict[str, pd.DataFrame]) -> None:
+#     """Upload the DataFrame to S3 as CSV files."""
+#     for name, df in dfs.items():
+#         if not df.empty:
+#             # df.copy = df.drop(columns='year_month', inplace=True)
+#             # replace hypehns with underscores in the name
+#             name = name.replace('-', '_')
+#             year = name[:4]
+#             # print sample path in s3
+#             logger.info(f"Uploading {name} to S3 at {s3_bucket}/{s3_prefix}/year={year}/kumasi_attendance_{name}.csv")
+#             s3_client.put_object(
+#                 Bucket=s3_bucket,
+#                 Key=f"{s3_prefix}/year={year}/kumasi_attendance_{name}.csv",
+#                 Body=df.to_csv(index=False)
+#             )
+#         else:    
+#             logger.warning(f"DataFrame for {name} is empty. Skipping upload.")
 
 
 def save_csvs_locally(dfs: Dict[str, pd.DataFrame]) -> None:
