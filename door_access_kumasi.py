@@ -305,14 +305,14 @@ def get_max_year_month(dfs: Dict[str, pd.DataFrame]):
     print('last proccessed year month is', last_processed_month)
     # write the last processed month into a file --, with two other columns,processedtime, and max_datetimestamp.
     with open (json_state_file,'w') as f:
-        json.dump({'door_access_pipeline':[{'df_current_month':last_processed_month},{'df_process_timestamp':current_time}]},f,indent=2)
+        json.dump({'door_access_pipeline':{'df_current_month':last_processed_month, 'df_process_timestamp':current_time}},f,indent=2)
 
 def get_last_year_month(json_state_file:dict)-> str:
     logger.info("loading state file...")
     with open (json_state_file,'r') as f:
         data = json.load(f)
         print(data)
-        last_year_month = data.get('door_access_pipeline',{})[0]['df_current_month']
+        last_year_month = data.get('door_access_pipeline',{}).get('df_current_month')
         return last_year_month
 
 
