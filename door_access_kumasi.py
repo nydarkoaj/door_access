@@ -10,7 +10,6 @@ import boto3
 from dotenv import load_dotenv
 from io import BytesIO,StringIO
 import sys
-# from get_all_logs import export_from_zk_access
 
 load_dotenv()
 
@@ -22,7 +21,7 @@ s3_client_1 = boto3.client(
     region_name=os.getenv("AWS_REGION_1")
 )
 
-# Account 2
+
 s3_bucket_2 = os.getenv("BUCKET_NAME_2")
 s3_client_2 = boto3.client(
     "s3",
@@ -33,17 +32,6 @@ s3_client_2 = boto3.client(
 s3_prefix = "raw/door-access-data/Kumasi"
 s3_log_folder_path = "raw/door-access-data/logs/"
 json_state_file = "state_file.json"
-
-
-# #========== AWS S3 CONFIGURATION ==========
-# # s3_bucket = os.getenv("BUCKET_NAME")
-# s3_prefix = "raw/door-access-data/Kumasi"
-# # access_key = os.getenv("AWS_ACCESS_KEY_ID")
-# # secret_key = os.getenv("AWS_SECRET_ACCESS_KEY")
-# # region = os.getenv("AWS_REGION")
-# # s3_client = boto3.client('s3', aws_access_key_id=access_key, aws_secret_access_key=secret_key, region_name=region)
-# s3_log_folder_path = "raw/door-access-data/logs/"
-# json_state_file = "state_file.json"
 
 
 # ========== CONFIGURATION ==========
@@ -203,7 +191,6 @@ def merge_data(
 
     }, inplace=True) 
 
-    # Reorer columns
     final_columns = [
         'date and time',
         'personnel id',
@@ -219,11 +206,6 @@ def merge_data(
     ]
     merged_df = merged_df[final_columns]
 
-
-    
-    # Update dict with merged dataframes
-    # update_dict= {'employee':employee_df,'log_events':log_events_df}
-    # dfs.update(update_dict)
     print("dataframe has", len(merged_df),"rows")
     return merged_df
 
@@ -265,24 +247,6 @@ def upload_to_s3(dfs: Dict[str, pd.DataFrame]) -> None:
         else:
             logger.warning(f"DataFrame for {name} is empty. Skipping upload.")
 
-# def upload_to_s3(dfs: Dict[str, pd.DataFrame]) -> None:
-#     """Upload the DataFrame to S3 as CSV files."""
-#     for name, df in dfs.items():
-#         if not df.empty:
-#             # df.copy = df.drop(columns='year_month', inplace=True)
-#             # replace hypehns with underscores in the name
-#             name = name.replace('-', '_')
-#             year = name[:4]
-#             # print sample path in s3
-#             logger.info(f"Uploading {name} to S3 at {s3_bucket}/{s3_prefix}/year={year}/kumasi_attendance_{name}.csv")
-#             s3_client.put_object(
-#                 Bucket=s3_bucket,
-#                 Key=f"{s3_prefix}/year={year}/kumasi_attendance_{name}.csv",
-#                 Body=df.to_csv(index=False)
-#             )
-#         else:    
-#             logger.warning(f"DataFrame for {name} is empty. Skipping upload.")
-
 
 def save_csvs_locally(dfs: Dict[str, pd.DataFrame]) -> None:
     """Save the DataFrame to local CSV files."""
@@ -322,8 +286,6 @@ def main() -> pd.DataFrame:
     logger.info("Starting data ingestion pipeline...")
     logger.info(f"Current timestamp: {current_time}")
 
-    # export_from_zk_access()
-
     logger.info("Listing tables in the database...")
     list_tables()
 
@@ -358,10 +320,10 @@ def main() -> pd.DataFrame:
     else:
         logger.warning("Data ingestion pipeline completed with no data.")   
 
-    return df_groups # Return the first group as the final dataset
+    return df_groups
 
 # ========== ENTRY POINT ==========
 if __name__ == "__main__":
     final_dataset = main()
-    # print(final_dataset)        
+        
 
