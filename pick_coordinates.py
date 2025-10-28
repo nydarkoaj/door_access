@@ -46,10 +46,10 @@ def list_all_window_classes():
         hwnd, class_name, title = window
         print(f"HWND: {hwnd}, CLASS NAME: {class_name}, TITLE: {title}")
 
-list_all_window_classes()
+# list_all_window_classes()
 
 
-# hwnd = 525424
+# hwnd = 788342
 # window = gw.Window(hwnd)
 # print("\n")
 # print(f"WINDOW SIZE: {window.size}")
